@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Exo:200,300,400,500,600,700|Great+Vibes|Italianno|Parisienne|Roboto:300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Exo:200,300,400,500,600,700|Parisienne');
 
-/*----------------color----------------s*/
+/*----------------color----------------*/
 
 .bg-color-name-title {
     background-color: #fff6e2;
@@ -11,7 +11,7 @@
 }
 
 .ui-menu-color-about {
-    background-color: #fff6e2;
+    background-color: #ffffff;
 }
 
 
@@ -21,7 +21,7 @@
 
 
 .ui-menu-color-gallery {
-    background-color: #fff6e2;
+    background-color: #ffffff;
 }
 
 
@@ -31,13 +31,13 @@
 
 /*----------------Heading----------------s*/
 
-header {
-    margin: 0;
-}
+/*header {*/
+/*    margin: 0;*/
+/*}*/
 
 .name {
-    font-family: "Dancing+Script", sans-serif;
-    /*font-weight: 100;*/
+    font-family: "Parisienne", sans-serif;
+    font-weight: 400;
     font-size: 46px;
     margin-top: 50px;
     color: #000000;
@@ -45,28 +45,16 @@ header {
 }
 
 .title {
-    font-family: "Dancing+Script", sans-serif;
+    font-family: "Parisienne", sans-serif;
     font-weight: 200;
     font-size: 28px;
     margin-top: 20px;
     margin-bottom: 90px;
     color: #000000;
-     text-align: center;
+    text-align: center;
 }
 
-.list-inline-item:not(:last-child) {
-    margin: 0;
-}
 
-.menucontainer {
-    font-size: 0;
-}
-
-#nav {
-    margin: 0;
-}
-
-#nav li {
-    font-size: 14px;
-    padding: 0;
-}
+/*.list-inline-item:not(:last-child) {*/
+/*    margin:0;*/
+/*}*/
