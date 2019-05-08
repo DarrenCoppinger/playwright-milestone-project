@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Exo:200,300,400,500,600,700|Great+Vibes|Italianno|Parisienne|Roboto:300,400,500,700');
+
+/*----------------color----------------s*/
+
+.bg-color-name-title {
+    background-color: #fff6e2;
+}
+
+.ui-menu-color-home {
+    background-color: #fff6e2;
+}
+
+.ui-menu-color-about {
+    background-color: #fff6e2;
+}
+
+
+.ui-menu-color-writing {
+    background-color: #fff6e2;
+}
+
+
+.ui-menu-color-gallery {
+    background-color: #fff6e2;
+}
+
+
+.ui-menu-color-collaboration {
+    background-color: #fff6e2;
+}
+
+/*----------------Heading----------------s*/
+
+header {
+    margin: 0;
+}
+
+.name {
+    font-family: "Dancing+Script", sans-serif;
+    /*font-weight: 100;*/
+    font-size: 46px;
+    margin-top: 50px;
+    color: #000000;
+    text-align: center;
+}
+
+.title {
+    font-family: "Dancing+Script", sans-serif;
+    font-weight: 200;
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 90px;
+    color: #000000;
+     text-align: center;
+}
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.menucontainer {
+    font-size: 0;
+}
+
+#nav {
+    margin: 0;
+}
+
+#nav li {
+    font-size: 14px;
+    padding: 0;
+}
