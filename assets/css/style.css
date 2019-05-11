@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Exo:200,300,400,500,600,700|Parisienne');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif+JP:200,300,400,500,600,700,900|Parisienne');
 
 /*----------------color----------------*/
 
@@ -40,7 +40,7 @@
 /*}*/
 
 .name {
-    font-family: "Parisienne", sans-serif;
+    font-family: "Parisienne", serif;
     font-weight: 400;
     font-size: 46px;
     margin-top: 50px;
@@ -49,7 +49,7 @@
 }
 
 .title {
-    font-family: "Parisienne", sans-serif;
+    font-family: "Noto+Serif+JP", serif;
     font-weight: 200;
     font-size: 28px;
     margin-top: 20px;
@@ -64,7 +64,10 @@
 }
 
 .menucontainer {
+    font-family: "Noto+Serif+JP", serif;
+    font-weight: 400;
     font-size: 0;
+    
 }
 
 #nav li {
@@ -83,7 +86,7 @@
 .menuitem a {
     width: 100%;
     text-decoration: none;
-    color: #ffffff;
+    color: #000000;
     height: 60px;
 }
 
@@ -108,6 +111,8 @@
 /*----------------footer----------------*/
 
 footer {
+    font-family: "Noto+Serif+JP", serif;
+    font-weight: 400;
     background-color: #fff6e2;
     color: #000000;
     min-height: 120px;
