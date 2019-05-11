@@ -14,19 +14,23 @@
     background-color: #ffffff;
 }
 
-
-.ui-menu-color-writing {
-    background-color: #fff6e2;
+.ui-menu-color-credits{
+     background-color: #fff6e2;
 }
 
 
-.ui-menu-color-gallery {
+.ui-menu-color-writing {
     background-color: #ffffff;
 }
 
 
-.ui-menu-color-collaboration {
+.ui-menu-color-gallery {
     background-color: #fff6e2;
+}
+
+
+.ui-menu-color-collaboration {
+    background-color: #ffffff;
 }
 
 /*----------------Heading----------------s*/
@@ -54,16 +58,53 @@
     text-align: center;
 }
 
+
+.list-inline-item:not(:last-child) {
+    margin:0;
+}
+
+.menucontainer {
+    font-size: 0;
+}
+
+#nav li {
+    font-size: 14px;
+    padding: 0;
+    
+}
+
 .menuitem {
     height: 60px;
     text-align: center;
     padding: 0;
+    margin: 0;
 }
 
-/*.list-inline-item:not(:last-child) {*/
-/*    margin:0;*/
-/*}*/
+.menuitem a {
+    width: 100%;
+    text-decoration: none;
+    color: #ffffff;
+    height: 60px;
+}
 
+.menuitem a i {
+    padding-top: 22px;
+    display: block;
+    color: #000000;
+    font-size: 13px;
+}
+
+.menuitem span {
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}    
+    
 /*----------------footer----------------*/
 
 footer {
@@ -74,6 +115,7 @@ footer {
 
 .social-links {
     padding-bottom: 15px;
+    font-size: 0;
 }
 
 .social-links li a i {
@@ -96,6 +138,48 @@ footer {
 .social-links li a i:hover {
     background: #e84610;
 }
+
+
+#foot li {
+    font-size: 14px;
+    padding: 0;
+    
+}
+
+.footeritem {
+    height: 60px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.footeritem a {
+    width: 100%;
+    text-decoration: none;
+    color: #000000;
+    height: 60px;
+}
+
+.footeritem a i {
+    padding-top: 22px;
+    display: block;
+    color: #000000;
+    font-size: 13px;
+}
+
+.footeritem span {
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}   
+
+
+/*----------------divider----------------*/
 
 .block-divider {
     height: 2px;
