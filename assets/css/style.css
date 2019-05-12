@@ -6,8 +6,12 @@
     background-color: #fff6e2;
 }
 
+.bg-color-section {
+    background-section: #fff6e2;
+}
+
 .ui-menu-color-home {
-    background-color: #fff6e2;
+    background-color: #ffffff;
 }
 
 .ui-menu-color-about {
@@ -15,7 +19,7 @@
 }
 
 .ui-menu-color-credits{
-     background-color: #fff6e2;
+     background-color: #ffffff;
 }
 
 
@@ -25,7 +29,7 @@
 
 
 .ui-menu-color-gallery {
-    background-color: #fff6e2;
+    background-color: #ffffff;
 }
 
 
@@ -35,9 +39,10 @@
 
 /*----------------Heading----------------s*/
 
-/*header {*/
-/*    margin: 0;*/
-/*}*/
+header {
+    margin: 0;
+    padding:0;
+}
 
 .name {
     font-family: "Parisienne", serif;
@@ -53,7 +58,7 @@
     font-weight: 200;
     font-size: 28px;
     margin-top: 20px;
-    margin-bottom: 90px;
+    margin-bottom: 20px;
     color: #000000;
     text-align: center;
 }
@@ -67,7 +72,7 @@
     font-family: "Noto+Serif+JP", serif;
     font-weight: 400;
     font-size: 0;
-    
+    margin: 0;
 }
 
 #nav li {
@@ -75,6 +80,9 @@
     padding: 0;
     
 }
+
+/*#nav ul {*/
+/*}*/
 
 .menuitem {
     height: 60px;
@@ -107,6 +115,9 @@
     font-weight: 300;
     letter-spacing: 2px;
 }    
+
+/*----------------section----------------*/
+
     
 /*----------------footer----------------*/
 
@@ -116,10 +127,13 @@ footer {
     background-color: #fff6e2;
     color: #000000;
     min-height: 120px;
+    margin:0;
 }
 
 .social-links {
-    padding-bottom: 15px;
+    margin:0;
+    /*padding-bottom: 15px;*/
+    padding: 15px;
     font-size: 0;
 }
 
@@ -183,12 +197,17 @@ footer {
     letter-spacing: 2px;
 }   
 
+#footer-details {
+    padding: 20px;
+}
 
 /*----------------divider----------------*/
 
 .block-divider {
     height: 2px;
-    width:500px;
-    border: 0;
+    width:90vw;
+    border: 2px;
     background-color: #000000;
+    /*margin:0;*/
+    padding:0px;
 }
