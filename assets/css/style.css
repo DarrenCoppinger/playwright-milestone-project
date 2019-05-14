@@ -179,3 +179,16 @@ footer {
     /*margin:0;*/
     padding:0px;
 }
+
+
+/*----------------headshot----------------*/
+.headshot {
+    background: url("../images/profile.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 360px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
