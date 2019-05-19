@@ -160,6 +160,25 @@ footer {
     padding:0;
 }
 
+.footer-title {
+    color:#000000;
+    font-family: "Noto+Serif+JP", serif;
+    font-weight: 400; 
+    font-size: 11px; 
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: uppercase;
+    border-top: 1px solid #000000;
+    padding: 0 10px;
+}
+
+.footer-title span {
+    position: relative;
+    top: -7px;
+    padding: 0 10px;
+    background: #ffffff;
+}
+
 .social-links {
     font-family: "Noto+Serif+JP", serif;
     font-weight: 400;
@@ -251,7 +270,7 @@ footer {
 }
 
 .timeline-item {
-    padding: 4em 3em 0em 2em;
+    padding: 4em 3em 2em 2em;
     position: relative;
     color: #000000;
     border-left: 1px solid;
