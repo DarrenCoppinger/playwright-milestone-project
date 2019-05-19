@@ -47,7 +47,8 @@ h4 {
 .history-heading ,
 .section-column {
     display: table-cell;
-    padding: 0 30px 30px;
+    /*padding: 0 15px 30px;*/
+    /*padding: 1em 1em 1em 1em;*/
     float: none;
 }
 
