@@ -67,10 +67,6 @@ section {
     padding:0;
 }
 
-.about h3 {
-    
-}
-
 /*----------------Heading----------------s*/
 header {
     margin: 0;
@@ -261,9 +257,7 @@ footer {
     padding:0; 
 }
 
-
 /*----------------Working History----------------*/
-
 .history-heading {
     color: #000000;
     margin-bottom: 20px;
@@ -309,4 +303,22 @@ footer {
 
 .history-items {
     margin-bottom: 15px;
+}
+
+/*----------------images----------------*/
+.home-image {
+    max-height: 100vh;
+
+    background: url("../images/Townland_2.jpg") no-repeat top center fixed;
+    /*background: url("../images/Townland_2.jpg") no-repeat;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
 }
