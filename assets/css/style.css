@@ -234,6 +234,12 @@ footer {
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
+    width:100%;
+}
+
+.profile {
+    margin:0;
+    padding:0; 
 }
 
 
