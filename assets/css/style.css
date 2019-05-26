@@ -333,6 +333,31 @@ footer {
     
 }
 
+
+/*----------------gallery images----------------*/
+
+/*original code credit: "https://codepen.io/sdthornton/pen/wBZdXq" and "https://github.com/AJGreaves/portrait-artist/"" */
+.gallery-thumbnail{ 
+  -webkit-box-shadow: 0 2px 5px rgba(0,0,0,0.25);
+          box-shadow: 0 2px 5px rgba(0,0,0,0.25);
+/*tranistion properties*/
+  -webkit-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+/* original code credit: https://codepen.io/sdthornton/pen/wBZdXq */
+.gallery-thumbnail:hover { 
+/*properties of the hover shadow effect changed*/
+  -webkit-box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+          box-shadow: 0 4px 10px rgba(0,0,0,0.5); 
+}
+
+.gallery-img img{
+    width: 100%;
+}
+
+
 /*----------------writing----------------*/
 .media {
     margin: 30px 15px;
