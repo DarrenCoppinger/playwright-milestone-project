@@ -363,3 +363,23 @@ footer {
 .media {
     margin: 30px 15px;
 }
+
+/*----------------instagram----------------*/
+.eapps-instagram-feed-title-container {
+     font-size: 0;
+}
+
+.eapps-instagram-feed-title {
+     color: white;
+     font-size: 0;
+}
+
+.eui-widget-title, .eapps-instagram-feed-title {
+    
+}
+
+/*----------------instagram----------------*/
+
+.carousel {
+    text-align: center;
+}
