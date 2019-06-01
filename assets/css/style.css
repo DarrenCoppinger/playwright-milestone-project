@@ -3,25 +3,25 @@
 /*----------------color----------------*/
 
 .bg-color-name-title {
-    background-color: #fff6e2;
+    background-color: #ffffff;
 }
 .bg-color-section {
     background-color: #fff6e2;
 }
 .ui-menu-color-home {
-    background-color: #ffffff;
+    background-color: #fff6e2;
 }
 .ui-menu-color-about {
-    background-color: #ffffff;
+    background-color: #fff6e2;
 }
 .ui-menu-color-credits{
-     background-color: #ffffff;
+     background-color: #fff6e2;
 }
 .ui-menu-color-writing {
-    background-color: #ffffff;
+    background-color: #fff6e2;
 }
 .ui-menu-color-gallery {
-    background-color: #ffffff;
+    background-color: #fff6e2;
 }
 .ui-menu-color-collaboration {
     background-color: #ffffff;
@@ -59,11 +59,15 @@ h4 {
     margin-bottom: 10px;
 }
 
+.container-fluid {
+    padding:0;
+}
+
 /*----------------section----------------*/
 section {
     font-family: "Noto+Serif+JP", serif;
     font-weight: 400;
-    /*margin: 22px 0px;*/
+    margin: 22px 0px;
     /*padding:0;*/
 }
 
@@ -76,7 +80,9 @@ header {
     font-family: "Parisienne", serif;
     font-weight: 400;
     font-size: 46px;
-    margin-top: 50px;
+    /*margin-top: 50px;*/
+    margin-top: 30px;
+    margin-bottom: 30px;
     color: #000000;
     text-align: center;
 }
@@ -141,7 +147,7 @@ header {
 }    
 
 .menucontainer li a:hover {
-    background-color: #fff6e2;
+    background-color: #ffffff;
     color:#000000;
 }
 
@@ -181,7 +187,7 @@ footer {
     font-size: 0;
     margin:0;
     padding: 0;
-    background-color: #ffffff;
+    background-color: #fff6e2;
 }
 
 #foot li {
@@ -223,7 +229,7 @@ footer {
 
 
 .social-links li a:hover {
-    background-color: #fff6e2;
+    background-color: #ffffff;
     color:#000000;
 }
 
