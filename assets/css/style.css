@@ -5,24 +5,31 @@
 .bg-color-name-title {
     background-color: #ffffff;
 }
+
 .bg-color-section {
     background-color: #fff6e2;
 }
+
 .ui-menu-color-home {
     background-color: #fff6e2;
 }
+
 .ui-menu-color-about {
     background-color: #fff6e2;
 }
-.ui-menu-color-credits{
-     background-color: #fff6e2;
+
+.ui-menu-color-credits {
+    background-color: #fff6e2;
 }
+
 .ui-menu-color-writing {
     background-color: #fff6e2;
 }
+
 .ui-menu-color-gallery {
     background-color: #fff6e2;
 }
+
 .ui-menu-color-contact {
     background-color: #fff6e2;
 }
@@ -44,7 +51,7 @@ h4 {
     text-transform: uppercase;
 }
 
-.history-heading ,
+.history-heading,
 .section-column {
     display: table-cell;
     padding: 15px 15px 15px;
@@ -60,40 +67,43 @@ h4 {
 }
 
 .container-fluid {
-    padding:0;
+    padding: 0;
 }
 
 /*----------------section----------------*/
+
 section {
     font-family: "Noto+Serif+JP", serif;
     font-weight: 400;
-    margin: 22px 0px;
+    margin: 15px 0px;
     /*padding:0;*/
 }
 
 /*----------------Heading----------------s*/
+
 header {
     margin: 0;
-    padding:0;
+    padding: 0;
 }
+
 .name {
     font-family: "Parisienne", serif;
     font-weight: 400;
     font-size: 46px;
     /*margin-top: 50px;*/
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     color: #000000;
     text-align: center;
 }
 
 .name a {
-     text-decoration: none;
-     color:#000000;
+    text-decoration: none;
+    color: #000000;
 }
 
 .name a:hover {
-    color:#e6cf9e;
+    color: #e6cf9e;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
@@ -104,14 +114,14 @@ header {
     font-family: "Noto+Serif+JP", serif;
     font-weight: 200;
     font-size: 28px;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     color: #000000;
     text-align: center;
 }
 
 .list-inline-item:not(:last-child) {
-    margin:0;
+    margin: 0;
 }
 
 .menucontainer {
@@ -135,6 +145,7 @@ header {
 }
 
 /*-clickable area-*/
+
 .menuitem a {
     width: 100%;
     text-decoration: none;
@@ -158,29 +169,29 @@ header {
     font-size: 14px;
     font-weight: 300;
     letter-spacing: 2px;
-}    
+}
 
 .menucontainer li a:hover {
     background-color: #e6cf9e;
-    color:#000000;
+    color: #000000;
 }
 
 
-    
+
 /*----------------footer----------------*/
 
 footer {
     color: #000000;
     min-height: 120px;
-    margin:0;
-    padding:0;
+    margin: 0;
+    padding: 0;
 }
 
 .footer-title {
-    color:#000000;
+    color: #000000;
     font-family: "Noto+Serif+JP", serif;
-    font-weight: 400; 
-    font-size: 11px; 
+    font-weight: 400;
+    font-size: 11px;
     letter-spacing: 2px;
     text-align: center;
     text-transform: uppercase;
@@ -199,7 +210,7 @@ footer {
     font-family: "Noto+Serif+JP", serif;
     font-weight: 400;
     font-size: 0;
-    margin:0;
+    margin: 0;
     padding: 0;
     background-color: #fff6e2;
 }
@@ -217,6 +228,7 @@ footer {
 }
 
 /*-clickable area-*/
+
 .footeritem a {
     width: 100%;
     text-decoration: none;
@@ -225,7 +237,7 @@ footer {
 }
 
 .footeritem a i {
-    padding-top: 10px;  
+    padding-top: 10px;
     display: block;
     color: #000000;
     font-size: 13px;
@@ -239,27 +251,28 @@ footer {
     text-transform: uppercase;
     font-size: 14px;
     letter-spacing: 2px;
-}   
+}
 
 
 .social-links li a:hover {
     background-color: #e6cf9e;
-    color:#000000;
+    color: #000000;
 }
 
 /*----------------divider----------------*/
 
 .block-divider {
     height: 2px;
-    width:90vw;
+    width: 90vw;
     border: 2px;
     background-color: #000000;
     /*margin:0;*/
-    padding:0px;
+    padding: 0px;
 }
 
 
 /*----------------headshot----------------*/
+
 .headshot {
     background: url("../images/profile.jpg");
     background-position: center;
@@ -269,15 +282,16 @@ footer {
     /*transition: all .5s ease-in-out;*/
     /*-moz-transition: all .5s ease-in-out;*/
     /*-webkit-transition: all .5s ease-in-out;*/
-    width:100%;
+    width: 100%;
 }
 
 .profile {
-    margin:0;
-    padding:0; 
+    margin: 0;
+    padding: 0;
 }
 
 /*----------------Working History----------------*/
+
 .history-heading {
     color: #000000;
     margin-bottom: 20px;
@@ -293,7 +307,7 @@ footer {
 }
 
 .timeline-item p {
-    padding:0;
+    padding: 0;
     margin: 0;
 }
 
@@ -307,7 +321,7 @@ footer {
     font-weight: 500;
     font-size: 0.8em;
     padding: 0;
-    margin:0;
+    margin: 0;
 }
 
 .timeline-item::after {
@@ -328,10 +342,12 @@ footer {
 }
 
 /*----------------images----------------*/
-.home-image {
-    height: 100vh;
 
-    background: url("../images/Townland_2.jpg") no-repeat top center fixed;
+.home-image {
+    height: 80vh;
+    color:#ffffff;
+
+    background: url("../images/druid-profile-image-bw-narrow-sm.jpg") no-repeat top left scroll;
     /*background: url("../images/Townland_2.jpg") no-repeat;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -346,73 +362,96 @@ footer {
 }
 
 .hero-image {
-    /*position: relative;*/
-    text-align: center;
+    position: relative;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+            background-size: cover;
 }
 
 .image-caption {
     text-align: center;
-    
+
 }
 
 
 /*----------------gallery images----------------*/
 
 /*original code credit: "https://codepen.io/sdthornton/pen/wBZdXq" and "https://github.com/AJGreaves/portrait-artist/"" */
-.gallery-thumbnail{ 
-  -webkit-box-shadow: 0 2px 5px rgba(0,0,0,0.25);
-          box-shadow: 0 2px 5px rgba(0,0,0,0.25);
-/*tranistion properties*/
-  -webkit-transition: all 0.3s ease-in-out;
-  -o-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
+
+.gallery-thumbnail {
+    -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+    /*tranistion properties*/
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
 }
 
 /* original code credit: https://codepen.io/sdthornton/pen/wBZdXq */
-.gallery-thumbnail:hover { 
-/*properties of the hover shadow effect changed*/
-  -webkit-box-shadow: 0 4px 10px rgba(0,0,0,0.5);
-          box-shadow: 0 4px 10px rgba(0,0,0,0.5); 
+
+.gallery-thumbnail:hover {
+    /*properties of the hover shadow effect changed*/
+    -webkit-box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
 }
 
-.gallery-img img{
+.gallery-img img {
     width: 100%;
     /*max-height: 125px*/
 }
 
 /*----------------gallery videos----------------*/
+
 .video {
-    margin: 15px, 0;
+    width: 100%;
+    margin: 15px;
+    padding: 0;
+
+    -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+
+    /*tranistion properties*/
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.video:hover {
+    /*properties of the hover shadow effect changed*/
+    -webkit-box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
 }
 
 
 /*----------------writing----------------*/
+
 .media {
     margin: 30px 15px;
 }
 
 /*----------------instagram----------------*/
+
 .eapps-instagram-feed-title-container {
-     font-size: 0;
+    font-size: 0;
 }
 
 .eapps-instagram-feed-title {
-     color: white;
-     font-size: 0;
+    color: white;
+    font-size: 0;
 }
 
-.eui-widget-title, .eapps-instagram-feed-title {
-    
-}
+.eui-widget-title,
+.eapps-instagram-feed-title {}
 
 /*----------------instagram----------------*/
 
 .carousel-caption {
-    background-color: rgba(0,0,0,0.50);
+    background-color: rgba(0, 0, 0, 0.50);
 }
 
-.carousel-control-prev-icon, .carousel-control-next-icon {
-    color: rgba(0,0,0,1);
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+    color: rgba(0, 0, 0, 1);
 }
 
 .carousel-control-prev-icon {
@@ -423,7 +462,8 @@ footer {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
 }
 
-.carousel-caption, p {
+.carousel-caption,
+p {
     margin-bottom: 0;
     font-size: smaller;
 }
