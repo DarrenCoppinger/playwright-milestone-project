@@ -23,8 +23,8 @@
 .ui-menu-color-gallery {
     background-color: #fff6e2;
 }
-.ui-menu-color-collaboration {
-    background-color: #ffffff;
+.ui-menu-color-contact {
+    background-color: #fff6e2;
 }
 
 .bg-color-work-history {
@@ -378,6 +378,11 @@ footer {
 .gallery-img img{
     width: 100%;
     /*max-height: 125px*/
+}
+
+/*----------------gallery videos----------------*/
+.video {
+    margin: 15px, 0;
 }
 
 
