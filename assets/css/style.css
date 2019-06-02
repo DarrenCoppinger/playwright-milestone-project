@@ -86,6 +86,20 @@ header {
     color: #000000;
     text-align: center;
 }
+
+.name a {
+     text-decoration: none;
+     color:#000000;
+}
+
+.name a:hover {
+    color:#e6cf9e;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+
 .title {
     font-family: "Noto+Serif+JP", serif;
     font-weight: 200;
@@ -147,7 +161,7 @@ header {
 }    
 
 .menucontainer li a:hover {
-    background-color: #ffffff;
+    background-color: #e6cf9e;
     color:#000000;
 }
 
@@ -229,7 +243,7 @@ footer {
 
 
 .social-links li a:hover {
-    background-color: #ffffff;
+    background-color: #e6cf9e;
     color:#000000;
 }
 
@@ -267,6 +281,8 @@ footer {
 .history-heading {
     color: #000000;
     margin-bottom: 20px;
+    font-size: 20px;
+    padding-left: 0;
 }
 
 .timeline-item {
