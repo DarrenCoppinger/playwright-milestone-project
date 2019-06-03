@@ -351,7 +351,7 @@ footer {
 /*----------------images----------------*/
 
 .home-image {
-    height: 20vw;
+    height: 60vh;
     color:#ffffff;
 
     background: url("../images/druid-profile-image-bw-narrow-sm.jpg") no-repeat top left scroll;
