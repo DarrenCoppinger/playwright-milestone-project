@@ -16,40 +16,42 @@ This website will portrait a sense of the playwright and her work with a simple 
 
 #### Design Objectives:
 
-*Is the content appropriate for the audience:
+* Is the content appropriate for the audience:
 The audience for this website will be english speaking theatre goers and artists. The audience is likely a young technology savvy audience and will likely access the site on mobile devices. A mobile first approach was considered appropriate for this type of audience. Although the website will accommodate all visitors its primary audience will be technology literate.
 
-*Is the content relevant?
+* Is the content relevant?
 Yes the content on this site is specific to the playwright (images from productions, and other artistic collaborations, extracts from works). The website makes best use of these assets provided by the playwright. 
 
-*Is the content grouped in an intuitive way?
+* Is the content grouped in an intuitive way?
 The content is grouped into easially understood sections (Home, About, Writing, Gallery).
 
 The site also aims to have a simple elegance to it to reflect the playwrights sense of ascetics. 
 
-*Is the technology for this content approriate?
+* Is the technology for this content approriate?
 
 A standard website has been chosen as the method to distribute this information as dedicated platform to supplement her social media presences. Links to her many social media accounts will be provide a central location and ease of access to her updates (plays that she may have seen, projects she is currently working on).
 
-###Business Strategy
+### Business Strategy
 
 *What is the product this website is selling?
 The product that we are trying to sell is the works of playwright Neasa O’Callaghan.
 
-*What value are we trying to add to is?
+* What value are we trying to add to is?
 
 THis website adds value to this product by providing a centralised location for potential fans to find the playwright on all social media platforms where she currently promotes her work and the work of her collaborators. The website also provides background information on the identity of the playwright and the factors that inform her work, it will also provides a platform to download extracts from her work. 
 
-*What has been done like this before?
+* What has been done like this before?
 The playwright has a social media presence but no current website.
 Examples of the websites of other up and come playwrights include:
-    *Lisa-carroll.co.uk
-    *www.vinaypatel.co.uk
-    *www.sarahruhlplaywright.com/
+
+    * Lisa-carroll.co.uk
+    * www.vinaypatel.co.uk
+    * www.sarahruhlplaywright.com/
     
-*What are the technology considerations 
+* What are the technology considerations 
 A website is an appropriate technology to reach the widest possible audience. A website will provide a central location to links to the playwrights social media platforms and will provide a repository for sample extracts from the playwrights work.
-###User stories
+
+### User stories
 
 ## Features
 ### Existing Features
