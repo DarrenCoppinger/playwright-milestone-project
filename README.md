@@ -12,9 +12,9 @@ A website for a contemporary playwright Neasa O’Callaghan”. She is intereste
 
 This website will portrait a sense of the playwright and her work with a simple but elegant aesthetic.
 
-##UX
+## UX
 
-####Design Objectives:
+#### Design Objectives:
 
 *Is the content appropriate for the audience:
 The audience for this website will be english speaking theatre goers and artists. The audience is likely a young technology savvy audience and will likely access the site on mobile devices. A mobile first approach was considered appropriate for this type of audience. Although the website will accommodate all visitors its primary audience will be technology literate.
@@ -51,22 +51,22 @@ Examples of the websites of other up and come playwrights include:
 A website is an appropriate technology to reach the widest possible audience. A website will provide a central location to links to the playwrights social media platforms and will provide a repository for sample extracts from the playwrights work.
 ###User stories
 
-##Features
-###Existing Features
+## Features
+### Existing Features
 
-###Features left to Implement
+### Features left to Implement
 Instagram feed. As this required java script to implement this was left for a future development sprint.
 
 
 
-##Technologies Used
+## Technologies Used
 
 
 
-##Testing
+## Testing
 
-##Development
-##Credits
-###Content
-###Media
-###Acknowledgements
+## Development
+## Credits
+### Content
+### Media
+### Acknowledgements
