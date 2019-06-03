@@ -10,6 +10,11 @@
     background-color: #fff6e2;
 }
 
+
+.bg-color-menu {
+    background-color: #fff6e2;
+}
+
 .ui-menu-color-home {
     background-color: #fff6e2;
 }
@@ -139,6 +144,8 @@ header {
 
 .menuitem {
     /*height: 60px;*/
+    /*width: 100px;*/
+    width: 20vw;
     text-align: center;
     padding: 0;
     margin: 0;
@@ -150,7 +157,7 @@ header {
     width: 100%;
     text-decoration: none;
     color: #000000;
-    /*height: 60px;*/
+    height: 60px;
 }
 
 .menuitem a i {
@@ -344,7 +351,7 @@ footer {
 /*----------------images----------------*/
 
 .home-image {
-    height: 80vh;
+    height: 20vw;
     color:#ffffff;
 
     background: url("../images/druid-profile-image-bw-narrow-sm.jpg") no-repeat top left scroll;
@@ -443,7 +450,7 @@ footer {
 .eui-widget-title,
 .eapps-instagram-feed-title {}
 
-/*----------------instagram----------------*/
+/*----------------carousel----------------*/
 
 .carousel-caption {
     background-color: rgba(0, 0, 0, 0.50);
@@ -467,3 +474,63 @@ p {
     margin-bottom: 0;
     font-size: smaller;
 }
+
+
+/*----------------form----------------*/
+.contact-heading {
+    font-family: "Noto+Serif+JP", serif;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.centre-form {
+    padding-top: 15px;
+    margin: 0 auto;
+    max-width: 60%;
+}
+
+button[type="submit"] {
+    margin-top: 15px;
+    margin-bottom: 20px;
+    color: #000000;
+    background-color: #fff6e2;
+}
+
+.btn:hover {
+    color: #000000;
+     background-color: #e6cf9e;
+     text-decoration: none;
+}
+
+/*----------------nav-bar----------------*/
+
+.navbar {
+    padding: 0;
+}
+
+.navbar .navbar-toggler {
+   border: 0; 
+}
+
+/*navbar-light .navbar-toggler-icon {*/
+/*    background-image: url(data:image/svg+xml,%3csvg viewBox='0 0 0 30' xmlns='http://www.w3.org/2000…p='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e);*/
+/*}*/
+
+
+/*----------------Media Queries----------------s*/
+
+@media(max-width: 576px) {
+.menuitem {
+    /*height: 60px;*/
+    /*width: 100px;*/
+    width: 100vw;
+}
+}
+
+/*   .centre-form {*/
+/*    padding-top: 30px;*/
+/*    min-height: 240px;*/
+/*    margin: 0 auto;*/
+/*    max-width: 50%;*/
+/*} */

@@ -1,9 +1,10 @@
 <h1 align="center">
-<img scr="https://ibb.co/Pj8H6Gv" alt="Project hero image of Neasa O'Callaghan"/></a>
+<!--<img src="https://ibb.co/Pj8H6Gv/druid-profile-image-bw-narrow-sm.jpg" alt="Project hero image of Neasa O'Callaghan"/></a>-->
+<img src="https://i.ibb.co/LRf7ZdX/druid-profile-image-bw-narrow-sm.jpg" alt="Project hero image of Neasa O'Callaghan" width="1739" height="799" data-load="full" style="">
 </h1>
 
 <h2> 
-<a href"https://darrencoppinger.github.io/playwright-milestone-project/">Take a look at the website here.</a>
+<a href="https://darrencoppinger.github.io/playwright-milestone-project/">Take a look at the website here.</a>
 </h2>
 
 A website for a contemporary playwright Neasa O’Callaghan”. She is interested in developing a website the satisfies the following criteria:
