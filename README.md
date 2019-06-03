@@ -1,5 +1,5 @@
-<h1 align="center">
-<a href="https://ibb.co/Pj8H6Gv"
+<p align="center">
+<a href="https://ibb.co/Pj8H6Gv">
 </h1>
 
 <div align="center"> 
@@ -46,11 +46,12 @@ Examples of the websites of other up and come playwrights include:
     *www.sarahruhlplaywright.com/
     
 *What are the technology considerations 
-
+A website is an appropriate technology to reach the widest possible audience. A website will provide a central location to links to the playwrights social media platforms and will provide a repository for sample extracts from the playwrights work.
 ###User stories
 
 ##Features
 ###Existing Features
+
 ###Features left to Implement
 Instagram feed. As this required java script to implement this was left for a future development sprint.
 
