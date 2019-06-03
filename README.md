@@ -1,10 +1,10 @@
 <h1 align="center">
-<img scr="https://ibb.co/Pj8H6Gv" alt="Project hero image of Neasa O'Callagham"></a>
+<img scr="https://ibb.co/Pj8H6Gv" alt="Project hero image of Neasa O'Callagham"/></a>
 </h1>
 
-<div align="center"> 
+<h2 align="center"> 
 [View website in GitHub Pages](https://darrencoppinger.github.io/playwright-milestone-project/)
-</div>
+</h2>
 
 A website for a contemporary playwright Neasa O’Callaghan”. She is interested in developing a website the satisfies the following criteria:
 * Design a website that targets audience members who have seen her work or those who have heard about her from other people and wish to she see photographs of the productions and read extracts from her currently published or soon to be published works.
@@ -13,7 +13,9 @@ A website for a contemporary playwright Neasa O’Callaghan”. She is intereste
 This website will portrait a sense of the playwright and her work with a simple but elegant aesthetic.
 
 ##UX
+
 ####Design Objectives:
+
 *Is the content appropriate for the audience:
 The audience for this website will be english speaking theatre goers and artists. The audience is likely a young technology savvy audience and will likely access the site on mobile devices. A mobile first approach was considered appropriate for this type of audience. Although the website will accommodate all visitors its primary audience will be technology literate.
 
