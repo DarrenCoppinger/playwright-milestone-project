@@ -1,5 +1,5 @@
-<p align="center">
-<a href="https://ibb.co/Pj8H6Gv">
+<h1 align="center">
+<img scr="https://ibb.co/Pj8H6Gv" alt="Project hero image of Neasa O'Callagham"></a>
 </h1>
 
 <div align="center"> 
