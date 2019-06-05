@@ -84,6 +84,57 @@ section {
     /*padding:0;*/
 }
 
+.section-title {
+    color: #000000;
+    font-family: "Noto+Serif+JP", serif;
+    font-weight: 400;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: uppercase;
+    border-top: 1px solid #000000;
+    padding: 0 10px;
+}
+
+.section-title span {
+    position: relative;
+    top: -7px;
+    padding: 0 10px;
+    background: #ffffff;
+}
+
+.neasas-work {
+    padding-top: 50px;
+}
+
+.call-out a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.call-out a:hover {
+    color: #e6cf9e;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.25);
+    margin-top: 90%;
+}
+
+.jumbotron:hover {
+    background-color: rgba(255, 255, 255, 0.25);
+
+    /*color: #e6cf9e;*/
+    color: #000000;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+
+}
+
 /*----------------Heading----------------s*/
 
 header {
@@ -178,6 +229,7 @@ header {
     letter-spacing: 2px;
 }
 
+
 .menucontainer li a:hover {
     background-color: #e6cf9e;
     color: #000000;
@@ -212,6 +264,7 @@ footer {
     padding: 0 10px;
     background: #ffffff;
 }
+
 
 .social-links {
     font-family: "Noto+Serif+JP", serif;
@@ -352,7 +405,7 @@ footer {
 
 .home-image {
     height: 60vh;
-    color:#ffffff;
+    color: #ffffff;
 
     background: url("../images/druid-profile-image-bw-narrow-sm.jpg") no-repeat top left scroll;
     /*background: url("../images/Townland_2.jpg") no-repeat;*/
@@ -366,14 +419,20 @@ footer {
     justify-content: center;
 
     position: relative;
+    padding-bottom: 0
 }
 
-.hero-image {
-    position: relative;
-    background-repeat: no-repeat;
-    -webkit-background-size: cover;
-            background-size: cover;
-}
+/*.hero-image {*/
+
+/*    position: relative;*/
+
+/*    background-repeat: no-repeat;*/
+
+/*    -webkit-background-size: cover;*/
+
+/*            background-size: cover;*/
+
+/*}*/
 
 .image-caption {
     text-align: center;
@@ -477,6 +536,7 @@ p {
 
 
 /*----------------form----------------*/
+
 .contact-heading {
     font-family: "Noto+Serif+JP", serif;
     font-weight: 400;
@@ -499,8 +559,8 @@ button[type="submit"] {
 
 .btn:hover {
     color: #000000;
-     background-color: #e6cf9e;
-     text-decoration: none;
+    background-color: #e6cf9e;
+    text-decoration: none;
 }
 
 /*----------------nav-bar----------------*/
@@ -510,27 +570,37 @@ button[type="submit"] {
 }
 
 .navbar .navbar-toggler {
-   border: 0; 
+    border: 0;
 }
 
 /*navbar-light .navbar-toggler-icon {*/
-/*    background-image: url(data:image/svg+xml,%3csvg viewBox='0 0 0 30' xmlns='http://www.w3.org/2000…p='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e);*/
-/*}*/
 
+/*    background-image: url(data:image/svg+xml,%3csvg viewBox='0 0 0 30' xmlns='http://www.w3.org/2000…p='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e);*/
+
+/*}*/
 
 /*----------------Media Queries----------------s*/
 
 @media(max-width: 576px) {
-.menuitem {
-    /*height: 60px;*/
-    /*width: 100px;*/
-    width: 100vw;
-}
+    .menuitem {
+        /*height: 60px;*/
+        /*width: 100px;*/
+        width: 100vw;
+    }
 }
 
 /*   .centre-form {*/
+
 /*    padding-top: 30px;*/
+
 /*    min-height: 240px;*/
+
 /*    margin: 0 auto;*/
+
 /*    max-width: 50%;*/
+
 /*} */
+
+.test {
+    background-color: green;
+}
