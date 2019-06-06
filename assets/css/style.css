@@ -75,12 +75,16 @@ h4 {
     padding: 0;
 }
 
+.about-details {
+    font-size: 18px;
+}
+
 /*----------------section----------------*/
 
 section {
     font-family: "Noto+Serif+JP", serif;
     font-weight: 400;
-    margin: 15px 0px;
+    margin: 50px 0px;
     /*padding:0;*/
 }
 
@@ -104,29 +108,59 @@ section {
 }
 
 .neasas-work {
-    padding-top: 50px;
+    /*padding-top: 50px;*/
 }
 
-.call-out a {
+.call-out {
+    margin-top: 90%;
+    /*font-size: 7vw;*/
+}
+
+.call-out div {
     text-decoration: none;
     color: #ffffff;
+    padding: 1rem 1rem;
+    border-radius: .3rem;
+    background-color: rgba(0, 0, 0, 0.25);
+    margin-top: 90%;
+    text-align: center
 }
 
-.call-out a:hover {
-    color: #e6cf9e;
+.call-out div:hover {
+    background-color: rgba(255, 255, 255, 0.25);
+    color: #000000;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
 }
 
+/*.call-out a:hover {*/
+/*    color: #000000;*/
+/*    transition: all .5s ease-in-out;*/
+/*    -moz-transition: all .5s ease-in-out;*/
+/*    -webkit-transition: all .5s ease-in-out;*/
+/*}*/
+
 .jumbotron {
     background-color: rgba(0, 0, 0, 0.25);
     margin-top: 90%;
+    
+    color: #ffffff;
+    text-decoration: none;
 }
 
 .jumbotron:hover {
     background-color: rgba(255, 255, 255, 0.25);
 
+    /*color: #e6cf9e;*/
+    color: #000000;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+
+}
+
+.jumbotron a:hover {
     /*color: #e6cf9e;*/
     color: #000000;
     transition: all .5s ease-in-out;
@@ -215,7 +249,7 @@ header {
     padding-top: 10px;
     display: block;
     color: #000000;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .menuitem span {
@@ -250,7 +284,7 @@ footer {
     color: #000000;
     font-family: "Noto+Serif+JP", serif;
     font-weight: 400;
-    font-size: 11px;
+    font-size: 14px;
     letter-spacing: 2px;
     text-align: center;
     text-transform: uppercase;
@@ -300,7 +334,7 @@ footer {
     padding-top: 10px;
     display: block;
     color: #000000;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 .footeritem span {
@@ -528,10 +562,10 @@ footer {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
 }
 
-.carousel-caption,
+.carousel-caption
 p {
     margin-bottom: 0;
-    font-size: smaller;
+    font-size: 14px;
 }
 
 
