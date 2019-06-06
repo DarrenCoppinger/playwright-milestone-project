@@ -2,7 +2,7 @@
 
 /*----------------color----------------*/
 
-.bg-color-name-title {
+.bg-color {
     background-color: #ffffff;
 }
 
@@ -15,31 +15,7 @@
     background-color: #fff6e2;
 }
 
-.ui-menu-color-home {
-    background-color: #fff6e2;
-}
-
-.ui-menu-color-about {
-    background-color: #fff6e2;
-}
-
-.ui-menu-color-credits {
-    background-color: #fff6e2;
-}
-
-.ui-menu-color-writing {
-    background-color: #fff6e2;
-}
-
-.ui-menu-color-gallery {
-    background-color: #fff6e2;
-}
-
-.ui-menu-color-contact {
-    background-color: #fff6e2;
-}
-
-.bg-color-work-history {
+.ui-menu-color {
     background-color: #fff6e2;
 }
 
