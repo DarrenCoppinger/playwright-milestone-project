@@ -59,88 +59,75 @@ h4 {
     font-size: 18px;
 }
 
-/*----------------section----------------*/
+/*----------------main----------------*/
 
-section {
+main {
     font-family: "Noto+Serif+JP", serif;
     font-weight: 400;
-    margin: 50px 0px;
-    /*padding:0;*/
 }
 
-.section-title {
-    color: #000000;
-    font-family: "Noto+Serif+JP", serif;
-    font-weight: 400;
-    font-size: 11px;
-    letter-spacing: 2px;
-    text-align: center;
-    text-transform: uppercase;
-    border-top: 1px solid #000000;
-    padding: 0 10px;
-}
-
-.section-title span {
-    position: relative;
-    top: -7px;
-    padding: 0 10px;
-    background: #ffffff;
-}
 
 .neasas-work {
     /*padding-top: 50px;*/
 }
 
 .call-out {
-    /*margin-top: 90%;*/
-    /*font-size: 7vw;*/
     position: absolute;
-    top: 50%;
+    text-decoration: none;
+    top: 75%;
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
 }
 
-.call-out div:hover {
+.call-out a{
     text-decoration: none;
-    background-color: rgba(255, 255, 255, 0.25);
-    color: #000000;
-    transition: all 1.5s ease-in-out;
-    -moz-transition: all 1.5s ease-in-out;
-    -webkit-transition: all 1.5s ease-in-out;
-}
-
-.call-out-text div {
-    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.25);
     color: #ffffff;
     padding: 1rem 1rem;
     border-radius: .3rem;
-    background-color: rgba(0, 0, 0, 0.25);
-    /*margin-top: 90%;*/
-    /*text-align: center;*/
 }
 
-.call-out-text div:hover {
+
+.call-out a:hover {
     text-decoration: none;
+    background-color: rgba(255, 255, 255, 0.25);
+    color: #000000;
+    /*transition: all 1.5s ease-in-out;*/
+    /*-moz-transition: all 1.5s ease-in-out;*/
+    /*-webkit-transition: all 1.5s ease-in-out;*/
+}
+
+/*.call-out-text div {*/
+    /*color: #ffffff;*/
+    /*background-color: rgba(0, 0, 0, 0.25);*/
+    /*padding: 1rem 1rem;*/
+    /*border-radius: .3rem;*/
+    /*text-decoration: none;*/
     /*color: #ffffff;*/
     /*padding: 1rem 1rem;*/
     /*border-radius: .3rem;*/
     /*background-color: rgba(0, 0, 0, 0.25);*/
     /*margin-top: 90%;*/
     /*text-align: center;*/
-}
+/*}*/
+
+/*.call-out-text div:hover {*/
+/*    text-decoration: none;*/
+    /*color: #ffffff;*/
+    /*padding: 1rem 1rem;*/
+    /*border-radius: .3rem;*/
+    /*background-color: rgba(0, 0, 0, 0.25);*/
+    /*margin-top: 90%;*/
+    /*text-align: center;*/
+/*}*/
 
 
 /*.call-out a:hover {*/
-
 /*    color: #000000;*/
-
 /*    transition: all .5s ease-in-out;*/
-
 /*    -moz-transition: all .5s ease-in-out;*/
-
 /*    -webkit-transition: all .5s ease-in-out;*/
-
 /*}*/
 
 .jumbotron {
@@ -170,6 +157,72 @@ section {
     -webkit-transition: all .5s ease-in-out;
 
 }
+
+
+
+/*----------------images----------------*/
+
+.home-image {
+    height: 70vh;
+    /*height:auto;*/
+    color: #ffffff;
+
+    background: url("../images/druid-profile-image-bw-narrow-sm.jpg") no-repeat top left scroll;
+    /*background: url("../images/Townland_2.jpg") no-repeat;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    /*display: flex;*/
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+    padding-bottom: 0
+}
+
+/*.hero-image {*/
+/*    position: relative;*/
+/*    background-repeat: no-repeat;*/
+/*    -webkit-background-size: cover;*/
+/*            background-size: cover;*/
+/*}*/
+
+.image-caption {
+    text-align: center;
+}
+
+
+
+/*----------------section----------------*/
+
+section {
+    font-family: "Noto+Serif+JP", serif;
+    font-weight: 400;
+    margin: 25px 25px;
+    /*padding:0;*/
+}
+
+.section-title {
+    color: #000000;
+    font-family: "Noto+Serif+JP", serif;
+    font-weight: 400;
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-transform: uppercase;
+    border-top: 1px solid #000000;
+    padding: 0 10px;
+}
+
+.section-title span {
+    position: relative;
+    top: -7px;
+    padding: 0 10px;
+    background: #ffffff;
+}
+
 
 /*----------------Heading----------------s*/
 
@@ -437,43 +490,6 @@ footer {
     margin-bottom: 15px;
 }
 
-/*----------------images----------------*/
-
-.home-image {
-    height: 60vh;
-    /*height:auto;*/
-    color: #ffffff;
-
-    background: url("../images/druid-profile-image-bw-narrow-sm.jpg") no-repeat top left scroll;
-    /*background: url("../images/Townland_2.jpg") no-repeat;*/
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-
-    /*display: flex;*/
-    align-items: center;
-    justify-content: center;
-
-    position: relative;
-    padding-bottom: 0
-}
-
-/*.hero-image {*/
-
-/*    position: relative;*/
-
-/*    background-repeat: no-repeat;*/
-
-/*    -webkit-background-size: cover;*/
-
-/*            background-size: cover;*/
-
-/*}*/
-
-.image-caption {
-    text-align: center;
-}
 
 
 /*----------------gallery images----------------*/
