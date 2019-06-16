@@ -39,7 +39,7 @@ h4 {
 .history-heading,
 .section-column {
     display: table-cell;
-    padding: 15px 15px 15px;
+    padding: 15px 15px 15px 30px;
     /*padding: 1em 1em 1em 1em;*/
     float: none;
 }
@@ -52,7 +52,7 @@ h4 {
 }
 
 .container-fluid {
-    padding: 0;
+    /*padding: 0;*/
 }
 
 .about-details {
@@ -200,7 +200,7 @@ main {
 section {
     font-family: "Noto+Serif+JP", serif;
     font-weight: 400;
-    margin: 25px 25px;
+    margin: 50px 0px;
     /*padding:0;*/
 }
 
@@ -222,6 +222,18 @@ section {
     padding: 0 10px;
     background: #ffffff;
 }
+
+/*.media-body a {*/
+/*    text-decoration: none;*/
+/*    color: #000000;*/
+/*}*/
+
+/*.media-body a:hover {*/
+/*    color: #e6cf9e;*/
+/*    transition: all .5s ease-in-out;*/
+/*    -moz-transition: all .5s ease-in-out;*/
+/*    -webkit-transition: all .5s ease-in-out;*/
+/*}*/
 
 
 /*----------------Heading----------------s*/
@@ -449,7 +461,7 @@ footer {
 }
 
 .timeline-item {
-    padding: 4em 3em 2em 2em;
+    padding: 4em 2em 2em 2em;
     position: relative;
     color: #000000;
     border-left: 1px solid;
@@ -466,7 +478,7 @@ footer {
     left: 2.5em;
     top: 3em;
     display: block;
-    font-family: "Exo", sans-serif;
+    font-family: "Noto+Serif+JP", serif;
     font-weight: 500;
     font-size: 0.8em;
     padding: 0;
@@ -611,7 +623,14 @@ button[type="submit"] {
 .btn:hover {
     color: #000000;
     background-color: #e6cf9e;
+    border-color: #e6cf9e;
     text-decoration: none;
+    
+    /*background-color: #6c757d;*/
+}
+
+.form-control {
+    margin-bottom: 15px;
 }
 
 /*----------------nav-bar----------------*/
