@@ -534,6 +534,10 @@ footer {
     /*max-height: 125px*/
 }
 
+.gallery-section {
+    margin: 50px 0px;
+}
+
 /*----------------gallery videos----------------*/
 
 .video {
@@ -657,6 +661,12 @@ button[type="submit"] {
 
 /*}*/
 
+
+/*----------------body----------------*/
+body {
+    overflow-x: hidden;
+}
+
 /*----------------Media Queries----------------s*/
 
 @media(max-width: 576px) {
@@ -682,3 +692,5 @@ button[type="submit"] {
 .test {
     background-color: green;
 }
+
+
