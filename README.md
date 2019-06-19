@@ -1,6 +1,6 @@
 <h1 align="center">
 <!--<img src="https://ibb.co/Pj8H6Gv/druid-profile-image-bw-narrow-sm.jpg" alt="Project hero image of Neasa O'Callaghan"/></a>-->
-<img src="https://i.ibb.co/LRf7ZdX/druid-profile-image-bw-narrow-sm.jpg" alt="Project hero image of Neasa O'Callaghan" width="1739" height="799" data-load="full" style="">
+<img src="https://i.ibb.co/LRf7ZdX/druid-profile-image-bw-narrow-sm.jpg" alt="Project hero image of Neasa O'Callaghan" width="100%" data-load="full" style="">
 </h1>
 
 <h2> 
@@ -34,7 +34,7 @@ A standard website has been chosen as the method to distribute this information 
 
 ### Business Strategy
 
-*What is the product this website is selling?
+* What is the product this website is selling?
 The product that we are trying to sell is the works of playwright Neasa O’Callaghan.
 
 * What value are we trying to add to is?
@@ -54,6 +54,8 @@ A website is an appropriate technology to reach the widest possible audience. A 
 
 ### User stories
 
+As a visitor to the site I want to 
+
 ## Features
 ### Existing Features
 
@@ -63,13 +65,26 @@ Instagram feed. As this required java script to implement this was left for a fu
 
 
 ## Technologies Used
-
-
-
+This project used:
+* HTML
+* CSS
+* <a href="https://fonts.google.com/">Google Fonts</a>
+* <a href="https://fancyapps.com/fancybox/3/">Fancybox</a>
+* <a href="https://c9.io/">Cloud9</a>
+* <a href="https://getbootstrap.com/">BootstrapCDN</a>
+* <a href="https://www.youtube.com/">YouTube</a>
+* <a href="https://jquery.com/">jQuery</a>
+* <a href="https://popper.js.org/">popper.js</a>
+* <a href="https://jigsaw.w3.org/css-validator/">Jigsaw Validator</a>
+* <a href=""></a>
+* 
 ## Testing
 
 ## Development
 ## Credits
+### Media
+The photos on the site were obtain from the client. Where indicated certain images are used with permission of the copywrite holder.
+
 ### Content
 ### Media
 ### Acknowledgements

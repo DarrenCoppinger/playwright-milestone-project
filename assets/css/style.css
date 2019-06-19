@@ -432,6 +432,29 @@ footer {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
 }
 
+/*----------------gallery audio----------------*/
+
+.audio {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+.audio:hover {
+    /*-properties of the hover shadow effect changed-*/
+    -webkit-box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.gallery-aud iframe {
+    width: 100%;
+}
+
 /*----------------writing----------------*/
 
 .media {
