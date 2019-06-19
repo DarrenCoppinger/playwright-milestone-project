@@ -56,6 +56,14 @@ A website is an appropriate technology to reach the widest possible audience. A 
 
 As a visitor to the site I want to 
 
+### Wireframe
+
+* <a href="https://ibb.co/YWC3b32">Home</a>
+* <a href="https://ibb.co/gZhMqQ3">About</a>
+* <a href="https://ibb.co/d2KKtXb">Writing</a>
+* <a href="https://ibb.co/YTpVyD2">Gallery</a>
+* <a href="https://ibb.co/44MyrtP">Contact</a>
+
 ## Features
 ### Existing Features
 
@@ -75,8 +83,8 @@ This project used:
 * <a href="https://www.youtube.com/">YouTube</a>
 * <a href="https://jquery.com/">jQuery</a>
 * <a href="https://popper.js.org/">popper.js</a>
-* <a href="https://jigsaw.w3.org/css-validator/">Jigsaw Validator</a>
-* <a href=""></a>
+* <a href="https://jigsaw.w3.org/css-validator/">Jigsaw CSS Validator</a>
+* <a href="https://validator.w3.org/">Nu HTML Validator</a>
 * 
 ## Testing
 
