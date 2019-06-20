@@ -467,6 +467,15 @@ footer {
     background-color: rgba(0, 0, 0, 0.50);
 }
 
+.carousel-caption a {
+    text-decoration: none;
+    color:#f7c047;
+}
+
+.carousel-caption a:hover {
+    color:#e6cf9e;
+}
+
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
     color: rgba(0, 0, 0, 1);

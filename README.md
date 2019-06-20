@@ -45,7 +45,7 @@ THis website adds value to this product by providing a centralised location for 
 The playwright has a social media presence but no current website.
 Examples of the websites of other up and come playwrights include:
 
-    * Lisa-carroll.co.uk
+    * www.Lisa-carroll.co.uk
     * www.vinaypatel.co.uk
     * www.sarahruhlplaywright.com/
     
@@ -54,7 +54,7 @@ A website is an appropriate technology to reach the widest possible audience. A 
 
 ### User stories
 
-As a visitor to the site I want to 
+* I am an audience member at one of the Playwrights productions, I want to find out about her other work, I go her website see  I want to 
 
 ### Wireframe
 
@@ -79,6 +79,7 @@ This project used:
 * <a href="https://fonts.google.com/">Google Fonts</a>
 * <a href="https://fancyapps.com/fancybox/3/">Fancybox</a>
 * <a href="https://c9.io/">Cloud9</a>
+* <a href="https://git-scm.com/">Git</a>
 * <a href="https://getbootstrap.com/">BootstrapCDN</a>
 * <a href="https://www.youtube.com/">YouTube</a>
 * <a href="https://jquery.com/">jQuery</a>
