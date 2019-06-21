@@ -54,7 +54,10 @@ A website is an appropriate technology to reach the widest possible audience. A 
 
 ### User stories
 
-* I am an audience member at one of the Playwrights productions, I want to find out about her other work, I go her website see  I want to 
+* I was an audience member at one of the Playwrights productions or rehersed readings, I want to find out more about her other work, I go her website see I want to see if there are any upcoming performances and see on the front page information on her next play.
+* I am a actor/director I here about Neasa from an audience member, I wanted to find out more about her writing, I go to her website to download an extract of her work.
+* I am a actor/director I want to work with the Playwright, I go to her website and fill in the contact form with the details of a project that I would like to work on.
+* I am a artist or costume and set designer, I here about Neasa from an audience member, I would like to see images of performances of her work to get a sense of what type of worlds she creates, I go to her website and look through the Gallery of her past work.
 
 ### Wireframe
 
@@ -66,7 +69,13 @@ A website is an appropriate technology to reach the widest possible audience. A 
 
 ## Features
 ### Existing Features
+At the top of each page is a stylised version of the clients name and responsive navigation bar at the top of the page. The name also acts as a "Home" button. The "Playwright | Producer" title drops onto the menu bar when the screen size drops to the sm size class
 
+On the footer of each page are social media icons link the the visitor to the clients social media profiles. 
+#### Home
+The home page has a hero image with a text overlay asking "Want to work with Neasa?". Clicking this text will bring the visitor to the "Contact" page.
+
+* Feature 1:
 ### Features left to Implement
 Instagram feed. As this required java script to implement this was left for a future development sprint.
 

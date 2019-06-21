@@ -435,7 +435,9 @@ footer {
 /*----------------gallery audio----------------*/
 
 .audio {
-    width: 100%;
+    /*width: auto;*/
+    width: 300;
+    height: 380;
     margin: 0;
     padding: 0;
     -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25);
@@ -496,6 +498,21 @@ footer {
 
 .carousel-container {
     margin: 15px 0;
+}
+
+.carousel-text {
+  margin: 15px 15px;  
+  text-align: center;
+  background-color: #fff6e2;
+}
+
+.carousel-text a {
+    text-decoration: none;
+    color:#e6cf9e;
+}
+
+.carousel-text a:hover {
+    color:#f7c047;
 }
 
 /*----------------form----------------*/
