@@ -1,6 +1,6 @@
 <h1 align="center">
 <!--<img src="https://ibb.co/Pj8H6Gv/druid-profile-image-bw-narrow-sm.jpg" alt="Project hero image of Neasa O'Callaghan"/></a>-->
-<img src="https://ibb.co/By2LZ9k/project-title-image.jpg" alt="Project hero image of Neasa O'Callaghan" width="100%" data-load="full" style="">
+<img src="https://i.ibb.co/0CyqMx5/project-title-image.jpg" alt="Project hero image of Neasa O'Callaghan" width="100%" data-load="full" style="">
 </h1>
 
 <h2> 
