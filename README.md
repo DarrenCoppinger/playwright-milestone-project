@@ -143,6 +143,15 @@ To deploy these pages to GitHub pages for the GitHub repositiory, the following 
  
 ### To Run Project Locally
 
+To clone or copy this project from GitHub follow these steps:
+1. Follow this link to the [project respoitory on gitHub] (https://github.com/DarrenCoppinger/playwright-milestone-project)
+2. On the left side of the page click the green button labled "Clone or Download"
+3. In the pop up that appears labled "Clone with HTTPs" section copy the URL
+4. In you local IDE open Git Bash
+5. Change the working directory to the  to the location for the cloned directory to be stored.
+6. Type "git clone" and then paste in the url copied from GitHub in step 3
+7. Hit enter and create your local drive.
+
 
 ## Credits
 ### Media
@@ -152,3 +161,9 @@ The photos on the site were provided by the client. Where indicated certain imag
 The pdf extracts of the playwrights work (Townland and The Minimum Requirement) accessible from the "Writing" page and the text used on the "About" page were provided by the client, Playwiright Neasa O'Callaghan.
 
 ### Acknowledgements
+
+I would like to thank Neasa O'Callaghan for her input into this design and for providing the image, video and audio content for it.
+
+#### Disclaimer
+
+This Website was produced for educational purposes only.
