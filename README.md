@@ -129,46 +129,39 @@ Both of the follow validators were used to check the code developed from this pr
 
 ### User Stories Testing
 Audience member vists the site 1: I go her website see I want to see if there are any upcoming performances and see on the front page information on her next play.
-i. The audiene member sees the home page of the website.
-ii. They scroll down to the section on "Neasa's Upcoming Work" at the bottom of the webpage and see information on an upcoming performances her new play
-iii. They follow the link to the theatres webpage in the carousel caption (for md screen sizes and greater) or the text underneath the carousel (for screen size smaller then md) to buy tickets to the next play.
+1. The audiene member sees the home page of the website.
+2. They scroll down to the section on "Neasa's Upcoming Work" at the bottom of the webpage and see information on an upcoming performances her new play
+3. They follow the link to the theatres webpage in the carousel caption (for md screen sizes and greater) or the text underneath the carousel (for screen size smaller then md) to buy tickets to the next play.
 
 Audience member vists the site 2:
-i. The audiene member sees the home page of the website.
-ii. I click the "About" button on the navbar
-iii. On the about page I find information on the playwrights backgrounds and her past work.
+1. The audiene member sees the home page of the website.
+2. I click the "About" button on the navbar
+3. On the about page I find information on the playwrights backgrounds and her past work.
 
 Actor/Director visits site 1:
-i. Actor/Director visits site looking to find out more about the playwrights plays. They see the "Writing" button on the navbar and click this button.
-ii. They are brought to the "Writing" page of the website where they find summaries of two of the clients other works
-iii. They read the they are interested in one of the plays described so the click on the "Download Extract" buttons underneath the play discription.
+1. Actor/Director visits site looking to find out more about the playwrights plays. They see the "Writing" button on the navbar and click this button.
+2. They are brought to the "Writing" page of the website where they find summaries of two of the clients other works
+3. They read the they are interested in one of the plays described so the click on the "Download Extract" buttons underneath the play discription.
 
 Actor/Director visits site 2:
-i. Actor/Director visits site looking to see images from productions of the playwrights work. They see the "Gallery" button on the navbar and click this button.
-ii. They are brought to the "Gallery" page of the website where they see three sections of media: images, videos and audio. In the images section they see thumbnails of the images.
-iii. They see a image/video/audio item they are interested in and click it.
+1. Actor/Director visits site looking to see images from productions of the playwrights work. They see the "Gallery" button on the navbar and click this button.
+2. They are brought to the "Gallery" page of the website where they see three sections of media: images, videos and audio. In the images section they see thumbnails of the images.
+3. They see a image/video/audio item they are interested in and click it.
 * For the images this launchs a fancy box image viewer to see the the orginal iamge
 * For videos they can play the video embedded in the page/they can make the video full screen/they can click the YouTube button and watch the video on YouTube.
 * For the audio the song listed on the playlist will begin to play, they click through to the playlist on spotify by clicking the spotify icon in the top right hand corner.
 
 Costumer/set designer visits site:
-i. Costumer/set designer visits site wanting to see images from other performances of the playwrights work. They visit the home page of the website and see the "Gallery" button on the navbar and click this button.
-ii. They are brought to the "Gallery" page of the website where they see three sections of media: images, videos and audio. In the images section they see thumbnails of the images.
-iii. They click the first image thumbnail, this launches the fancy box viewer.
-iv. They click through the images from the playwrights performances and publicity material to get a sense of her work and the aesthetic she has creaated in these past productions.
+1. Costumer/set designer visits site wanting to see images from other performances of the playwrights work. They visit the home page of the website and see the "Gallery" button on the navbar and click this button.
+2. They are brought to the "Gallery" page of the website where they see three sections of media: images, videos and audio. In the images section they see thumbnails of the images.
+3. They click the first image thumbnail, this launches the fancy box viewer.
+4. They click through the images from the playwrights performances and publicity material to get a sense of her work and the aesthetic she has creaated in these past productions.
 
 Potential Collaborator visits site: 
-i. a actor/director/artist/costume designer/set designer I want to work with the Playwright. On the "Home" page of the website they see the hero image which has a text box asking "Want to work with Neasa?"
-ii. They click this button which brings them to the Contact page.
-iii. They fill in their name, email address and the details of the project they would like to work with the playwright on.
-iv. They click the submit button.
-
-* Audience Member vists the site 1: I was an audience member at one of the Playwrights productions, I want to find out more about her other work, I go her website see I want to see if there are any upcoming performances and see on the front page information on her next play.
-* Audience Member vists the site 2: I was an audience member at one of the Playwrights productions, I want to find out more about the playwright, I go her website, see the about page on the navbar, I visit the "About" page to read about the playwrights background.
-* Actor/Director visits site 1: I am a actor/director I here about Neasa from an audience member, I wanted to find out more about her writing, I go to her website to download an extract of her work.
-* Actor/Director visits site 2: I am a actor/director I here about Neasa from an audience member, I wanted to find out more about other productions of her work, particularly images and videos. I go to her website, click the "Gallery" button on the navbar, look through the images and videos of her work.
-* Costumer/set designer visits site: I am a artist or costume/set designer, I hear about Neasa from an audience member, I would like to see images of performances of her work to get a sense of what type of worlds she creates, I go to her website and look through the Gallery of her past work.
-* Collaborator visits site: I am a actor/director/artist/costume designer/set designer I want to work with the Playwright, I go to her website and fill in the contact form with the details of a project that I would like to work on.
+1. a actor/director/artist/costume designer/set designer I want to work with the Playwright. On the "Home" page of the website they see the hero image which has a text box asking "Want to work with Neasa?"
+2. They click this button which brings them to the Contact page.
+3. They fill in their name, email address and the details of the project they would like to work with the playwright on.
+4. They click the submit button.
 
 ### Manual testing of elements and functionality on each page
 
