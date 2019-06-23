@@ -503,11 +503,11 @@ footer {
 
 .carousel-text a {
     text-decoration: none;
-    color:#e6cf9e;
+    color:#f7c047;
 }
 
 .carousel-text a:hover {
-    color:#f7c047;
+    color:#e6cf9e;
 }
 
 /*----------------form----------------*/

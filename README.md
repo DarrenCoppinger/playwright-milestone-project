@@ -1,15 +1,15 @@
 <h1 align="center">
-<!--<img src="https://ibb.co/Pj8H6Gv/druid-profile-image-bw-narrow-sm.jpg" alt="Project hero image of Neasa O'Callaghan"/></a>-->
 <img src="https://i.ibb.co/0CyqMx5/project-title-image.jpg" alt="Project hero image of Neasa O'Callaghan" width="100%" data-load="full" style="">
 </h1>
 
 <h2> 
-<a href="https://darrencoppinger.github.io/playwright-milestone-project/">Take a look at the website here.</a>
+<a href="https://darrencoppinger.github.io/playwright-milestone-project/">See the website here</a>
 </h2>
 
 A website for a contemporary playwright Neasa O’Callaghan”. She is interested in developing a website the satisfies the following criteria:
 * Design a website that targets audience members who have seen her work or those who have heard about her from other people and wish to she see photographs of the productions and read extracts from her currently published or soon to be published works.
-* The website must showcase the playwrights work, highlight the identity of the playwright and provide a slinks to her social media platforms which she uses to promot her work. 
+* The website must showcase the playwrights work, highlight the identity of the playwright and provide a section were potential collaborators can get in contact with the playwright, such as directors, producers, actors, set/costume designers and other writers. 
+* The website should provide links to the clients social media platforms which she uses to promot her work. 
 
 This website will portrait a sense of the playwright and her work with a simple but elegant aesthetic.
 
@@ -54,10 +54,12 @@ A website is an appropriate technology to reach the widest possible audience. A 
 
 ### User stories
 
-* I was an audience member at one of the Playwrights productions or rehersed readings, I want to find out more about her other work, I go her website see I want to see if there are any upcoming performances and see on the front page information on her next play.
-* I am a actor/director I here about Neasa from an audience member, I wanted to find out more about her writing, I go to her website to download an extract of her work.
-* I am a actor/director I want to work with the Playwright, I go to her website and fill in the contact form with the details of a project that I would like to work on.
-* I am a artist or costume and set designer, I here about Neasa from an audience member, I would like to see images of performances of her work to get a sense of what type of worlds she creates, I go to her website and look through the Gallery of her past work.
+* Audience Member vists the site 1: I was an audience member at one of the Playwrights productions, I want to find out more about her other work.
+* Audience Member vists the site 2: I was an audience member at one of the Playwrights productions, I want to find out more about the playwright.
+* Actor/Direct visits site 1: I am a actor/director I here about Neasa from an audience member, I wanted to find out more about her writing.
+* Actor/Direct visits site 2: I am a actor/director I here about Neasa from an audience member, I wanted to find out more about other productions of her work, particularly images and videos.
+* Costumer/set designer visits site: I am a artist or costume/set designer, I hear about Neasa from an audience member, I would like to see images of performances of her work to get a sense of what type of worlds she creates.
+* Potential Collaborator visits site: I am a actor/director/artist/costume designer/set designer I want to work with the Playwright and would like to contact her to discuss a potential project.
 
 ### Wireframe
 
@@ -76,7 +78,6 @@ On the footer of each page are social media icons link the the visitor to the cl
 The home page has a hero image which is overlaid with a call to action button asking "Want to work with Neasa?". Clicking this text will bring the visitor to the "Contact" page. 
 
 The hero image is a background images which is held at the top left corner of the image. As the screen size reduces the face of the playwright is kept in frame.
-
 
 #### About
 The about page features a headshot image of the client with a general biography beside the image.
@@ -107,7 +108,6 @@ This page has a contact form for collecting information on potential collaborati
 One feature which could be added in a later development sprint is direct feed from the clients instagram account where she promotes her work and posts high quality publicity imagery. However, this would require java script to implement which is beyond the scope of this assignment. Therefore, it will be implemented at a later time.
 
 
-
 ## Technologies Used
 This project used:
 * HTML
@@ -120,11 +120,57 @@ This project used:
 * <a href="https://www.youtube.com/">YouTube</a>
 * <a href="https://jquery.com/">jQuery</a>
 * <a href="https://popper.js.org/">popper.js</a>
-* <a href="https://jigsaw.w3.org/css-validator/">Jigsaw CSS Validator</a>
-* <a href="https://validator.w3.org/">Nu HTML Validator</a>
 * <a href="https://www.responsinator.com/">Responsinator</a>
 
 ## Testing
+Both of the follow validators were used to check the code developed from this project:
+* <a href="https://jigsaw.w3.org/css-validator/">W3C Jigsaw CSS Validator</a>
+* <a href="https://validator.w3.org/">WC3 Markup Validator</a>
+
+### User Stories Testing
+Audience member vists the site 1: I go her website see I want to see if there are any upcoming performances and see on the front page information on her next play.
+i. The audiene member sees the home page of the website.
+ii. They scroll down to the section on "Neasa's Upcoming Work" at the bottom of the webpage and see information on an upcoming performances her new play
+iii. They follow the link to the theatres webpage in the carousel caption (for md screen sizes and greater) or the text underneath the carousel (for screen size smaller then md) to buy tickets to the next play.
+
+Audience member vists the site 2:
+i. The audiene member sees the home page of the website.
+ii. I click the "About" button on the navbar
+iii. On the about page I find information on the playwrights backgrounds and her past work.
+
+Actor/Director visits site 1:
+i. Actor/Director visits site looking to find out more about the playwrights plays. They see the "Writing" button on the navbar and click this button.
+ii. They are brought to the "Writing" page of the website where they find summaries of two of the clients other works
+iii. They read the they are interested in one of the plays described so the click on the "Download Extract" buttons underneath the play discription.
+
+Actor/Director visits site 2:
+i. Actor/Director visits site looking to see images from productions of the playwrights work. They see the "Gallery" button on the navbar and click this button.
+ii. They are brought to the "Gallery" page of the website where they see three sections of media: images, videos and audio. In the images section they see thumbnails of the images.
+iii. They see a image/video/audio item they are interested in and click it.
+* For the images this launchs a fancy box image viewer to see the the orginal iamge
+* For videos they can play the video embedded in the page/they can make the video full screen/they can click the YouTube button and watch the video on YouTube.
+* For the audio the song listed on the playlist will begin to play, they click through to the playlist on spotify by clicking the spotify icon in the top right hand corner.
+
+Costumer/set designer visits site:
+i. Costumer/set designer visits site wanting to see images from other performances of the playwrights work. They visit the home page of the website and see the "Gallery" button on the navbar and click this button.
+ii. They are brought to the "Gallery" page of the website where they see three sections of media: images, videos and audio. In the images section they see thumbnails of the images.
+iii. They click the first image thumbnail, this launches the fancy box viewer.
+iv. They click through the images from the playwrights performances and publicity material to get a sense of her work and the aesthetic she has creaated in these past productions.
+
+Potential Collaborator visits site: 
+i. a actor/director/artist/costume designer/set designer I want to work with the Playwright. On the "Home" page of the website they see the hero image which has a text box asking "Want to work with Neasa?"
+ii. They click this button which brings them to the Contact page.
+iii. They fill in their name, email address and the details of the project they would like to work with the playwright on.
+iv. They click the submit button.
+
+* Audience Member vists the site 1: I was an audience member at one of the Playwrights productions, I want to find out more about her other work, I go her website see I want to see if there are any upcoming performances and see on the front page information on her next play.
+* Audience Member vists the site 2: I was an audience member at one of the Playwrights productions, I want to find out more about the playwright, I go her website, see the about page on the navbar, I visit the "About" page to read about the playwrights background.
+* Actor/Director visits site 1: I am a actor/director I here about Neasa from an audience member, I wanted to find out more about her writing, I go to her website to download an extract of her work.
+* Actor/Director visits site 2: I am a actor/director I here about Neasa from an audience member, I wanted to find out more about other productions of her work, particularly images and videos. I go to her website, click the "Gallery" button on the navbar, look through the images and videos of her work.
+* Costumer/set designer visits site: I am a artist or costume/set designer, I hear about Neasa from an audience member, I would like to see images of performances of her work to get a sense of what type of worlds she creates, I go to her website and look through the Gallery of her past work.
+* Collaborator visits site: I am a actor/director/artist/costume designer/set designer I want to work with the Playwright, I go to her website and fill in the contact form with the details of a project that I would like to work on.
+
+### Manual testing of elements and functionality on each page
 
 ## Development
 
