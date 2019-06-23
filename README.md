@@ -73,11 +73,38 @@ At the top of each page is a stylised version of the clients name and responsive
 
 On the footer of each page are social media icons link the the visitor to the clients social media profiles. 
 #### Home
-The home page has a hero image with a text overlay asking "Want to work with Neasa?". Clicking this text will bring the visitor to the "Contact" page.
+The home page has a hero image which is overlaid with a call to action button asking "Want to work with Neasa?". Clicking this text will bring the visitor to the "Contact" page. 
 
-* Feature 1:
+The hero image is a background images which is held at the top left corner of the image. As the screen size reduces the face of the playwright is kept in frame.
+
+
+#### About
+The about page features a headshot image of the client with a general biography beside the image.
+The page include a timeline of the playwrights theatrical performances, highlight the note achievements of her career.  
+
+#### Writing 
+This page includes synoposis of the clients notable work. At the bottom of each synoposis is a button which allows the visit to the site to downlaod extracts from each of the plays.  
+
+### Gallery 
+This page consists of rows of thumbnail images divided into 3 sections: images, videos, audio.
+
+The image thumbnails are square with rounded corners.Each image thumbnail can be clicked to launch a fancyboxviewer. The fancy box viewer presents a higher resolution version of the image in its original aspect ratio.  A light shadow appears behind the image which darkens when there are hovered on. The are different numbers of thumbnails on the screen depending on the screen size. There are as follow:
+* xs: one thumbnail per row
+* sm: two thumbnail per row
+* md: three thumbnail per row
+* lg: six thumbnail per row
+
+Video are displayed in a 16:9 aspect ratio, the format of the videos themselves. The videos are uploaded to YouTube, and embedded on this page using and iframe element.
+A light shadow appears behind the video interface which darkens when there are hovered on.
+ 
+The audio section includes an interface for a widget connecting to spotify where the client has a playlist of songs used for one of the productions she worked on. The widget interface has a light shadow appears behind it which darkens when there are hovered on.
+
+### Contact
+
+This page has a contact form for collecting information on potential collaborations. The form asks for the collabortors name, email address and details of the proposed project. At the bottom of the form is a submit button with the same color and hover affects as the other buttons used on the "Writing" page.
+
 ### Features left to Implement
-Instagram feed. As this required java script to implement this was left for a future development sprint.
+One feature which could be added in a later development sprint is direct feed from the clients instagram account where she promotes her work and posts high quality publicity imagery. However, this would require java script to implement which is beyond the scope of this assignment. Therefore, it will be implemented at a later time.
 
 
 
@@ -95,14 +122,33 @@ This project used:
 * <a href="https://popper.js.org/">popper.js</a>
 * <a href="https://jigsaw.w3.org/css-validator/">Jigsaw CSS Validator</a>
 * <a href="https://validator.w3.org/">Nu HTML Validator</a>
-* 
+* <a href="https://www.responsinator.com/">Responsinator</a>
+
 ## Testing
 
 ## Development
+
+This project was developed using the IDE Colud 9. Updates to the project were committed to git. These updates where then pushed to Github where they were stored in a public directory.
+
+Committing and pushing updates was done through cloud9s inbuilt functionality.
+
+To deploy these pages to GitHub pages for the GitHub repositiory, the following method was used.
+1. Logged into my GitHub account (https://github.com/DarrenCoppinger)
+2. Go to Repository tab.
+3. Click the repositiory called "playwright-milestone-project"
+4. Go to the "Settings" tab at the top of the page and click it.
+5. Scroll down the "Settings" page to the "GitHub Pages" section.
+6. In the "Sources" subsection select "Master Branch" from the drop down menu currently labled none. This refreshes the page and publishs the project.
+7. Scroll down again to the GitHub pages section to find a link to the deplyed website.
+ 
+### To Run Project Locally
+
+
 ## Credits
 ### Media
-The photos on the site were obtain from the client. Where indicated certain images are used with permission of the copywrite holder.
+The photos on the site were provided by the client. Where indicated certain images are used with permission of the copywrite holders, Laura Sheeran and Claudia Marinaro.
 
 ### Content
-### Media
+The pdf extracts of the playwrights work (Townland and The Minimum Requirement) accessible from the "Writing" page and the text used on the "About" page were provided by the client, Playwiright Neasa O'Callaghan.
+
 ### Acknowledgements

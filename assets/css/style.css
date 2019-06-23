@@ -57,7 +57,7 @@ h4 {
     font-size: 18px;
 }
 
-/*----------------main----------------*/
+/*----------------callout on Home page----------------*/
 
 main {
     font-family: "Noto+Serif+JP", serif;
@@ -92,20 +92,15 @@ main {
 
 .home-image {
     height: 70vh;
-    /*height:auto;*/
     color: #ffffff;
 
     background: url("../images/druid-profile-image-bw-narrow-sm.jpg") no-repeat top left scroll;
-    /*background: url("../images/Townland_2.jpg") no-repeat;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-
-    /*display: flex;*/
     align-items: center;
     justify-content: center;
-
     position: relative;
     padding-bottom: 0
 }
