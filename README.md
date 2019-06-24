@@ -169,12 +169,17 @@ Potential Collaborator visits site:
 
 1. Navbar
     1. Visit the Home page on a desktop sized screen (lg)
-    2. Hover over the Name Header text "Neasa O'Callaaghan" to check that the hover effects work.
-    2. Alter the screen size from desktop size down to mobile (sm) size to check that the navbar is responsive. At that size the navbar changes to the toggler icon and the roles Header "Playwright|Producer" text moves into the navbar to save vertical space.
-    3. Click the toggler icon to check that the drop down menu activates
-    4. Check that the buttons
+    2. Hover over the Name Header text "Neasa O'Callaghan" to check that the hover effects work.
+    3. Click the Name Header text "Neasa O'Callaghan" to check that it links to the Home page.
+    4. Hover over each navbar button to check the hover effect works for each one.
+    5. Click on each on of the navbar buttons to ensure that each links to the correct page.
+    6. Alter the screen size from desktop size down to mobile (sm) size to check that the navbar is responsive. At that size the navbar changes to the toggler icon and the roles Header "Playwright|Producer" text moves into the navbar to save vertical space.
+    7. Click the toggler icon to check that the drop down menu activates and that the text is centred.
+    8. Hover over each of the drop down menu buttons to make sure the hover effect activate
+    9. Click each of the drop down menu buttons to make sure that they links to the correct page.
 2. Hero Image
-3. Call to action button
+    1.
+3. Call to action button on hero image
 3. Carousel
 4. Footer
 5. Review of all functionality and responsiveness on mobile screen size by using <a href="https://www.responsinator.com/">Responsinator</a>
