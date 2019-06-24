@@ -123,15 +123,13 @@ section {
 
 section a {
     text-decoration: none;
-    /*color: #f7c047;*/
-    color: #e6cf9e;
+    color: #f7c047;
 }
 
 
 section a:hover {
     text-decoration: none;
-    /*color: #e6cf9e;*/
-    color: #f7c047;
+    color: #e6cf9e;
 }
 
 .section-title {
