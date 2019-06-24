@@ -183,22 +183,77 @@ Potential Collaborator visits site:
     3. Hover over the call to action button on top of hero image to ensure it reacts
     4. Click the call to action button to ensure that it bring you to the correct page.
 3. Carousel
+    1. Visit the Home page on a desktop sized screen (lg) and scroll to the carousel in the "Neasa's Upcoming Work" section
+    2. Click the forward and back arrows on either side of the slides 
+    3. Hover over the highlight "Arcola Theatre" hyperlink to ensure it reacts
+    4. Click "Arcola Theatre" hyperlink to sensure it opens a new page and goes to correct website
+    5. Alter the screen size from desktop size down to mobile (sm) size, check that the cousel caption will stops being displayed and the desciption of the image becomes a text box underneath the carousel.
+4. Footer
     1. Visit the Home page on a desktop sized screen (lg)
     2. Hover over each of the footer social media buttons to ensure that they react to correctly
     3. Click each of the social media buttons to ensure that they launch the correct social media account in another page
     4. Alter the screen size from desktop size down to mobile (sm) size to check that footer is responsive. At the sm screen size the footer should reform into two rows of two columns.
-4. Footer
 5. Review of all functionality and responsiveness on mobile screen size by using <a href="https://www.responsinator.com/">Responsinator</a>
 
 #### About
+1. Repeat Navbar checks as descibed in step one of the Home section
+2. Hyperlinks
+    1. Hover over each hyperlink to check that they each react
+    2. Click each hyperlink to make they launch the correct site in another page
+3. Resize page down to mobile (sm) size to check that columns are responsive to screen size change and reform into full width rows
+4. Repeat footer checks as descibed in step four of the Home section 
+5. Review of all functionality and responsiveness on mobile screen size by using <a href="https://www.responsinator.com/">Responsinator</a>
 
 #### Writing
+1. Repeat Navbar checks as descibed in step one of the Home section
+2. Download Extract" Buttons
+    1. Hover over "Download Extract" Buttons to ensure they react correctly
+    2. Click each "Download Extract" Buttons to ensure it opens the correct pdf document in another page
+3. Resize page down to mobile (sm) size to check that columns are responsive to screen size change and reform into full width rows
+4. Repeat footer checks as descibed in step four of the Home section 
+5. Review of all functionality and responsiveness on mobile screen size by using <a href="https://www.responsinator.com/">Responsinator</a>
 
-#### Gallery
+#### Gallery 
+1. Repeat Navbar checks as descibed in step one of the Home section
+2. Carousel
+    1. Visit Gallery page on a desktop sized screen (lg)
+    2. Click the forward and back arrows on either side of the slides 
+    3. Hover over the highlight "Arcola Theatre" hyperlink on the Townland image to ensure it reacts
+    4. Click "Arcola Theatre" hyperlink to sensure it opens a new page and goes to correct website
+    5. Alter the screen size from desktop size down to mobile (sm) size, check that the cousel caption will stops being displayed.
+3. Images
+    1. Visit Gallery page on a desktop sized screen (lg)
+    2. Hover over every thumbnail iamges to check that the hover shadow animation effect reacts
+    3. Check code to ensure that all images have an alt attribute
+    4. Click on each thumbnail to check that the FancyBox modal opens for each one and that the correct image is displayed for corresponding to the thumbnail.
+    5. In the FancyBox model check that the previous and next button work correctly. Also check that the "Play", "Start Slideshow", "Thumbnail" and close buttons all work correctly.
+    6. Reduce the screen size to check that the image reforn at the md, sm and xs break points into 3, 2 and 1 col respectively.
+4. Videos
+    1. Visit Gallery page on a desktop sized screen (lg)
+    2. Hover over embedded video to check that the hover shadow animation effect reacts on both videos
+    3. Press play button to check the each video
+    4. Check that the play/pause, volume, settings, YouTube and full screen buttons all work correctly
+    5. Reduce the screen size to check that the embedded videos reforn at the md breakpoint into full width rows
+5. Audio
+    1. Hover over the spotify widget interface to ensure that the hover shadow animation effect reacts
+    2. Click the play button to check that the audio files begin to play
+    3. Check that the Spotify and Share buttons work correctly
+    4. Check that each song on the playlist can be selected
+    5. Please note that this feature is only available in preview to those without a spotify account. This is not consider a issues as presenting audio media is not the primary focus of this site. 
+6. Repeat footer checks as descibed in step four of the Home section 
+7. Review of all functionality and responsiveness on mobile screen size by using <a href="https://www.responsinator.com/">Responsinator</a>
 
 #### Contact
-
-
+1. Repeat Navbar checks as descibed in step one of the Home section
+2. Contact Form
+    1. Submit empty form without any data and check that an error message appears in the first empty field
+    2. Submit the form with an empty Name field and check that an relevent error message appears
+    3. Submit the form with an invalid email address and check that an error messages appears when you do so
+    4. Submit the form with an empty project description field and check that an error messages appears when you do so
+    5. Hover over "Send Project Details" button to ensure is reacts
+3. Resize page down to check that the form is responsive to the change in width and never goes beyond 60% of the page width.
+4. Repeat footer checks as descibed in step four of the Home section 
+5. Review of all functionality and responsiveness on mobile screen size by using <a href="https://www.responsinator.com/">Responsinator</a>
 
 ## Development
 
