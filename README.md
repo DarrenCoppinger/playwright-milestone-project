@@ -165,6 +165,27 @@ Potential Collaborator visits site:
 
 ### Manual testing of elements and functionality on each page
 
+#### Home
+
+1. Navbar
+    1. Visit the Home page on a desktop sized screen (lg)
+    2. Alter the screen size from desktop size down to tablet (md) size 
+2. Hero Image
+3. Call to action button
+3. Carousel
+4. Footer
+5. Review of all functionality and responsiveness on mobile screen size by using <a href="https://www.responsinator.com/">Responsinator</a>
+
+#### About
+
+#### Writing
+
+#### Gallery
+
+#### Contact
+
+
+
 ## Development
 
 This project was developed using the IDE Colud 9. Updates to the project were committed to git. These updates where then pushed to Github where they were stored in a public directory.
