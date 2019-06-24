@@ -178,9 +178,15 @@ Potential Collaborator visits site:
     8. Hover over each of the drop down menu buttons to make sure the hover effect activate
     9. Click each of the drop down menu buttons to make sure that they links to the correct page.
 2. Hero Image
-    1.
-3. Call to action button on hero image
+    1. Visit the Home page on a desktop sized screen (lg)
+    2. Alter the screen size from desktop size down to mobile to ensure the clients face is always on screen and that the call to action button is always placed correctly and doesn't obscure the image.
+    3. Hover over the call to action button on top of hero image to ensure it reacts
+    4. Click the call to action button to ensure that it bring you to the correct page.
 3. Carousel
+    1. Visit the Home page on a desktop sized screen (lg)
+    2. Hover over each of the footer social media buttons to ensure that they react to correctly
+    3. Click each of the social media buttons to ensure that they launch the correct social media account in another page
+    4. Alter the screen size from desktop size down to mobile (sm) size to check that footer is responsive. At the sm screen size the footer should reform into two rows of two columns.
 4. Footer
 5. Review of all functionality and responsiveness on mobile screen size by using <a href="https://www.responsinator.com/">Responsinator</a>
 
