@@ -169,7 +169,10 @@ Potential Collaborator visits site:
 
 1. Navbar
     1. Visit the Home page on a desktop sized screen (lg)
-    2. Alter the screen size from desktop size down to tablet (md) size 
+    2. Hover over the Name Header text "Neasa O'Callaaghan" to check that the hover effects work.
+    2. Alter the screen size from desktop size down to mobile (sm) size to check that the navbar is responsive. At that size the navbar changes to the toggler icon and the roles Header "Playwright|Producer" text moves into the navbar to save vertical space.
+    3. Click the toggler icon to check that the drop down menu activates
+    4. Check that the buttons
 2. Hero Image
 3. Call to action button
 3. Carousel
