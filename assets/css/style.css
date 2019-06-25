@@ -62,7 +62,8 @@ h4 {
 main {
     font-family: "Noto+Serif+JP", serif;
     font-weight: 400;
-    font-size: 18px;
+    /*font-size: 22px;*/
+    font-size: 1.5rem;
 }
 
 .call-out {
@@ -227,7 +228,7 @@ header {
     padding-top: 10px;
     display: block;
     color: #000000;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 .menuitem span {
@@ -251,7 +252,6 @@ header {
 
 footer {
     color: #000000;
-    min-height: 120px;
     margin: 0;
     padding: 0;
 }
@@ -312,7 +312,7 @@ footer {
     padding-top: 10px;
     display: block;
     color: #000000;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 .footeritem span {
@@ -324,7 +324,6 @@ footer {
     font-size: 14px;
     letter-spacing: 2px;
 }
-
 
 .social-links li a:hover {
     background-color: #e6cf9e;
@@ -559,7 +558,11 @@ button[type="submit"] {
 }
 
 .form-control {
-    margin-bottom: 15px;
+    margin-bottom: 30px;
+}
+
+.form-size {
+    height:calc(100vh - 375px)
 }
 
 /*----------------nav-bar----------------*/
@@ -572,11 +575,6 @@ button[type="submit"] {
     border: 0;
 }
 
-/*navbar-light .navbar-toggler-icon {*/
-
-/*    background-image: url(data:image/svg+xml,%3csvg viewBox='0 0 0 30' xmlns='http://www.w3.org/2000…p='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e);*/
-
-/*}*/
 
 /*----------------body----------------*/
 
