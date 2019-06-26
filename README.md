@@ -54,7 +54,7 @@ Examples of the websites of other up and come playwrights include:
 
     * www.Lisa-carroll.co.uk
     * www.vinaypatel.co.uk
-    * www.sarahruhlplaywright.com/
+    * www.sarahruhlplaywright.com
     
 * What are the technology considerations 
 
