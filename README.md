@@ -35,6 +35,7 @@ A standard website has been chosen as the method to distribute this information 
 ### Business Strategy
 
 * What is the product this website is selling?
+
 The product that we are trying to sell is the works of playwright Neasa O’Callaghan.
 
 * What value are we trying to add to is?
@@ -42,6 +43,7 @@ The product that we are trying to sell is the works of playwright Neasa O’Call
 This website adds value to this product by providing a centralised location for potential fans to find the playwright on all social media platforms where she currently promotes her work and the work of her collaborators. The website also provides background information on the identity of the playwright and the factors that inform her work, it will also provide a platform to download extracts from her work. 
 
 * What has been done like this before?
+ 
 The playwright has a social media presence but no current website.
 Examples of the websites of other up and come playwrights include:
 
@@ -50,7 +52,22 @@ Examples of the websites of other up and come playwrights include:
     * www.sarahruhlplaywright.com/
     
 * What are the technology considerations 
+
 A website is an appropriate technology to reach the widest possible audience. A website will provide a central location to links to the playwright's social media platforms and will provide a repository for sample extracts from the playwright's work.
+
+* Why would a user want this product? What’s worth doing?
+
+Through interviews with the client, interviews with the potential users of this website. and reviews of other playwright’s websites a list of development priorities were established. An importance versus viability analysis was also conducted, the results of which are as follows:
+
+<img src="https://i.ibb.co/r4PBy4W/importance-vs-viability-analysis.jpg" alt="importance-vs-viability-analysis" border="0">
+
+The development priorities for this project are as follows:
+1.	Provide repository for writing extracts
+2.	Showcase writing credits/portfolio 
+3.	Create gallery of photos and promotional material of playwright’s productions
+4.	Provide central location for all social media links
+5.	Provide collaboration section
+6.	Provide embedded Instagram feed
 
 ### User stories
 
