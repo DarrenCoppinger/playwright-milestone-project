@@ -11,7 +11,12 @@ A website for a contemporary playwright Neasa O’Callaghan”. She is intereste
 * The website must showcase the playwrights work, highlight the identity of the playwright and provide a section were potential collaborators can get in contact with the playwright, such as directors, producers, actors, set/costume designers and other writers. 
 * The website should provide links to the playwright's social media platforms which she uses to promote her work. 
 
-This website will portrait a sense of the playwright and her work with a simple but elegant aesthetic.
+This website will portrait a sense of the playwright and her work with a simple but elegant aesthetic. This was achieved through the use of simple clean colors.
+
+The fonts were chosen to give a classic feel, so serif types were used. The fonts were sourced from Google Fonts and are as follows:
+* Noto Serif JP
+* Parisienne
+
 
 ## UX
 
@@ -57,7 +62,7 @@ A website is an appropriate technology to reach the widest possible audience. A 
 
 * Why would a user want this product? What’s worth doing?
 
-Through interviews with the client, interviews with the potential users of this website. and reviews of other playwright’s websites a list of development priorities were established. An importance versus viability analysis was also conducted, the results of which are as follows:
+Through interviews with the client, interviews with the potential users of this website and reviews of other playwright’s websites a list of development priorities were established. An importance versus viability analysis was also conducted, the results of which are as follows:
 
 <img src="https://i.ibb.co/r4PBy4W/importance-vs-viability-analysis.jpg" alt="importance-vs-viability-analysis" border="0">
 
