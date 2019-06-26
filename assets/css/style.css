@@ -367,7 +367,8 @@ footer {
 
 .timeline-item p {
     padding: 0;
-    margin: 0;
+    margin: 15px 0;
+    font-size: 16px;
 }
 
 .timeline-item::before {

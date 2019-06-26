@@ -7,9 +7,9 @@
 </h2>
 
 A website for a contemporary playwright Neasa O’Callaghan”. She is interested in developing a website the satisfies the following criteria:
-* Design a website that targets audience members who have seen her work or those who have heard about her from others and wish to she see photographs of her productions and read extracts from her currently published or soon to be published works.
+* Design a website that targets audience members who have seen her work or those who have heard about her from others and wish to see photographs of her productions and read extracts from her currently published or soon to be published works.
 * The website must showcase the playwrights work, highlight the identity of the playwright and provide a section were potential collaborators can get in contact with the playwright, such as directors, producers, actors, set/costume designers and other writers. 
-* The website should provide links to the Playwright social media platforms which she uses to promote her work. 
+* The website should provide links to the playwright's social media platforms which she uses to promote her work. 
 
 This website will portrait a sense of the playwright and her work with a simple but elegant aesthetic.
 
@@ -50,7 +50,7 @@ Examples of the websites of other up and come playwrights include:
     * www.sarahruhlplaywright.com/
     
 * What are the technology considerations 
-A website is an appropriate technology to reach the widest possible audience. A website will provide a central location to links to the playwright's social media platforms and will provide a repository for sample extracts from the playwrights work.
+A website is an appropriate technology to reach the widest possible audience. A website will provide a central location to links to the playwright's social media platforms and will provide a repository for sample extracts from the playwright's work.
 
 ### User stories
 
@@ -73,7 +73,7 @@ A website is an appropriate technology to reach the widest possible audience. A 
 ### Existing Features
 At the top of each page is a stylised version of the client's name and responsive navigation bar at the top of the page. The name also acts as a "Home" button. The "Playwright | Producer" title drops onto the menu bar when the screen size drops to the sm size class
 
-On the footer of each page are social media icons link the the visitor to the clients social media profiles. 
+On the footer of each page are social media icons link the the visitor to the client's social media profiles. 
 #### Home
 The home page has a hero image which is overlaid with a call to action button asking, "Want to work with Neasa?". Clicking this text will bring the visitor to the "Contact" page. 
 
@@ -81,7 +81,7 @@ The hero image is a background images which is held at the top left corner of th
 
 #### About
 The about page features a headshot image of the client with a general biography beside the image.
-The page includes a timeline of the playwrights theatrical performances, highlight the note achievements of her career.  
+The page includes a timeline of the playwright's theatrical performances, highlight the note achievements of her career.  
 
 #### Writing 
 This page includes synopsis of the client's notable work. At the bottom of each synopsis is a button which allows the visit to the site to download extracts from each of the plays.  
@@ -139,17 +139,17 @@ Audience member visits the site 2:
 3. On the about page I find information on the playwright's backgrounds and her past work.
 
 Actor/Director visits site 1:
-1. Actor/Director visits site looking to find out more about the playwrights plays. They see the "Writing" button on the navbar and click this button.
+1. Actor/Director visits site looking to find out more about the playwright's plays. They see the "Writing" button on the navbar and click this button.
 2. They are brought to the "Writing" page of the website where they find summaries of two of the client's other works
 3. They read the they are interested in one of the plays described so the click on the "Download Extract" buttons underneath the play description.
 
 Actor/Director visits site 2:
 1. Actor/Director visits site looking to see images from productions of the playwright's work. They see the "Gallery" button on the navbar and click this button.
 2. They are brought to the "Gallery" page of the website where they see three sections of media: images, videos and audio. In the images section they see thumbnails of the images.
-3. They see a image/video/audio item they are interested in and click it.
-* For the images this launches a fancy box image viewer to see the original image
-* For videos they can play the video embedded in the page/they can make the video full screen/they can click the YouTube button and watch the video on YouTube.
-* For the audio the song listed on the playlist will begin to play, they click through to the playlist on Spotify by clicking the Spotify icon in the top right-hand corner.
+3. They see an image/video/audio item they are interested in and click it.
+    1. For the images this launches a fancy box image viewer to see the original image
+    2. For videos they can play the video embedded in the page/they can make the video full screen/they can click the YouTube button and watch the video on YouTube.
+    3. For the audio the song listed on the playlist will begin to play, they click through to the playlist on Spotify by clicking the Spotify icon in the top right-hand corner.
 
 Costumer/set designer visits site:
 1. Costumer/set designer visits site wanting to see images from other performances of the playwright's work. They visit the home page of the website and see the "Gallery" button on the navbar and click this button.
@@ -158,7 +158,7 @@ Costumer/set designer visits site:
 4. They click through the images from the playwright's performances and publicity material to get a sense of her work and the aesthetic she has created in these past productions.
 
 Potential Collaborator visits site: 
-1. a actor/director/artist/costume designer/set designer I want to work with the Playwright. On the "Home" page of the website they see the hero image which has a text box asking, "Want to work with Neasa?"
+1. An actor/director/artist/costume designer/set designer I want to work with the Playwright. On the "Home" page of the website they see the hero image which has a text box asking, "Want to work with Neasa?"
 2. They click this button which brings them to the Contact page.
 3. They fill in their name, email address and the details of the project they would like to work with the playwright on.
 4. They click the submit button.
@@ -175,7 +175,7 @@ Potential Collaborator visits site:
     5. Click on each one of the navbar buttons to ensure that each links to the correct page.
     6. Alter the screen size from desktop size down to mobile (sm) size to check that the navbar is responsive. At that size the navbar changes to the toggler icon and the roles Header "Playwright|Producer" text moves into the navbar to save vertical space.
     7. Click the toggler icon to check that the drop-down menu activates and that the text is centred.
-    8. Hover over each of the drop-down menu buttons to make sure the hover effect activate
+    8. Hover over each of the drop-down menu buttons to make sure the hover effect activates
     9. Click each of the drop-down menu buttons to make sure that they links to the correct page.
 2. Hero Image
     1. Visit the Home page on a desktop sized screen (lg)
