@@ -62,7 +62,6 @@ h4 {
 main {
     font-family: "Noto+Serif+JP", serif;
     font-weight: 400;
-    /*font-size: 22px;*/
     font-size: 1.5rem;
 }
 
@@ -254,6 +253,9 @@ footer {
     color: #000000;
     margin: 0;
     padding: 0;
+    position: static;
+    bottom: 0;
+    left:0;
 }
 
 .footerbar {
@@ -448,7 +450,6 @@ footer {
 /*----------------gallery audio----------------*/
 
 .audio {
-    /*width: auto;*/
     width: 300;
     height: 380;
     margin: 0;
@@ -562,7 +563,7 @@ button[type="submit"] {
 }
 
 .form-size {
-    height:calc(100vh - 375px)
+    min-height: 63vh 
 }
 
 /*----------------nav-bar----------------*/
@@ -578,7 +579,7 @@ button[type="submit"] {
 
 /*----------------body----------------*/
 
-body {
+html {
     overflow-x: hidden;
 }
 
