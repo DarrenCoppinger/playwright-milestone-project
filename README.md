@@ -149,6 +149,11 @@ Both of the follow validators were used to check the code developed from this pr
 * <a href="https://jigsaw.w3.org/css-validator/">W3C Jigsaw CSS Validator</a>
 * <a href="https://validator.w3.org/">WC3 Markup Validator</a>
 
+This website was tested on multiple browsers. They included:
+* Google Chrome
+* Microsoft Edge
+* Firefox
+
 ### User Stories Testing
 Audience member visits the site 1: I go her website see I want to see if there are any upcoming performances and see on the front page information on her next play.
 1. The audience member sees the home page of the website.
