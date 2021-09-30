@@ -6,14 +6,14 @@
 <a href="https://darrencoppinger.github.io/playwright-milestone-project/">See the website here</a>
 </h2>
 
-A website for a contemporary playwright Neasa O’Callaghan”. She is interested in developing a website the satisfies the following criteria:
-* Design a website that targets audience members who have seen her work or those who have heard about her from others and wish to see photographs of her productions and read extracts from her currently published or soon to be published works.
-* The website must showcase the playwrights work, highlight the identity of the playwright and provide a section were potential collaborators can get in contact with the playwright, such as directors, producers, actors, set/costume designers and other writers. 
-* The website should provide links to the playwright's social media platforms which she uses to promote her work. 
+A website for a contemporary playwright Neasa O'Callaghan”. She is interested in developing a website the satisfies the following criteria:
+* Design a website that targets audience members who have seen her work or  heard about her from others and wish to see photographs of her productions and read extracts from her published or soon to be published works.
+* The website must showcase the playwright's work, highlight the  playwright's identity and provide a section where potential collaborators can get in contact with the playwright, such as directors, producers, actors, set/costume designers and other writers. 
+* The website should provide links to the playwright's social media platforms to promote her work. 
 
-This website will portrait a sense of the playwright and her work with a simple but elegant aesthetic. This was achieved through the use of simple clean colors.
+This website will portrait a sense of the playwright and her work with a simple but elegant aesthetic. This was achieved through the use of simple, clean colours.
 
-The fonts were chosen to give a classic feel, so serif types were used. The fonts were sourced from Google Fonts and are as follows:
+The developer wanted the fonts to communicate a classic feel, so serif types were used. The fonts were sourced from Google Fonts and are as follows:
 * Noto Serif JP
 * Parisienne
 
@@ -23,34 +23,34 @@ The fonts were chosen to give a classic feel, so serif types were used. The font
 ### Design Objectives:
 
 * Is the content appropriate for the audience:
-The audience for this website will be english speaking theatre goers and artists. The audience is likely a young technology savvy audience and will likely access the site on mobile devices. A mobile first approach was considered appropriate for this type of audience. Although the website will accommodate all visitors its primary audience will be technology literate.
+The audience for this website will be English speaking theatre goers and artists. The audience is likely a young technology-savvy audience and will probably access the site on mobile devices. A mobile-first approach was considered appropriate for this type of audience. Although the website will accommodate all visitors, its primary audience will be technology literate.
 
 * Is the content relevant?
-Yes the content on this site is specific to the playwright (images from productions, and other artistic collaborations, extracts from works). The website makes best use of these assets provided by the playwright. 
+The content on this site is specific to the playwright (images from productions, and other artistic collaborations, extracts from works). The website makes the best use of these assets provided by the playwright. 
 
 * Is the content grouped in an intuitive way?
 The content is grouped into easily understood sections (Home, About, Writing, Gallery).
 
-The site also aims to have a simple elegan aesthetic to it to reflect the playwright's sense of style. 
+The site also aims to have a simple, elegant aesthetic to reflect the playwright's sense of style. 
 
 * Is the technology for this content appropriate?
 
-A standard website has been chosen as the method to distribute this information as dedicated platform to supplement her social media presences. Links to her many social media accounts will be provide a central location and ease of access to her updates (plays that she may have seen, projects she is currently working on).
+A standard website has been chosen as the method to distribute this information as a dedicated platform to supplement her social media presence. Links to her many social media accounts will provide a central location and ease of access to her updates (plays that she may have seen or projects she is currently working on).
 
 ### Business Strategy
 
 * What is the product this website is selling?
 
-The product that we are trying to sell is the works of playwright Neasa O’Callaghan.
+The product that we are trying to sell is the works of playwright Neasa O'Callaghan.
 
-* What value are we trying to add to is?
+* What value are we trying to add to it?
 
-This website adds value to this product by providing a centralised location for potential fans to find the playwright on all social media platforms where she currently promotes her work and the work of her collaborators. The website also provides background information on the identity of the playwright and the factors that inform her work, it will also provide a platform to download extracts from her work. 
+This website adds value to this product by providing a centralised location for potential fans to find the playwright on all social media platforms where she currently promotes her work and the work of her collaborators. The website also provides background information on the playwright's identity and the factors that inform her work, it will also give a platform to download extracts from her work. 
 
 * What has been done like this before?
  
 The playwright has a social media presence but no current website.
-Examples of the websites of other up and come playwrights include:
+Examples of the websites of other up and coming playwrights include:
 
     * www.Lisa-carroll.co.uk
     * www.vinaypatel.co.uk
@@ -58,18 +58,18 @@ Examples of the websites of other up and come playwrights include:
     
 * What are the technology considerations 
 
-A website is an appropriate technology to reach the widest possible audience. A website will provide a central location to links to the playwright's social media platforms and will provide a repository for sample extracts from the playwright's work.
+A website is an appropriate technology to reach the broadest possible audience. A website will provide a central location to links to the playwright's social media platforms and provide a repository for sample extracts from the playwright's work.
 
-* Why would a user want this product? What’s worth doing?
+* Why would a user want this product? What's worth doing?
 
-Through interviews with the client, interviews with the potential users of this website and reviews of other playwright’s websites a list of development priorities were established. An importance versus viability analysis was also conducted, the results of which are as follows:
+Through interviews with the client, interviews with the potential users of this website and reviews of other playwright's websites, a list of development priorities were established. An importance versus viability analysis was also conducted, the results of which are as follows:
 
 <img src="https://i.ibb.co/r4PBy4W/importance-vs-viability-analysis.jpg" alt="importance-vs-viability-analysis" border="0">
 
 The development priorities for this project are as follows:
 1.	Provide repository for writing extracts
 2.	Showcase writing credits/portfolio 
-3.	Create gallery of photos and promotional material of playwright’s productions
+3.	Create gallery of photos and promotional material of playwright's productions
 4.	Provide central location for all social media links
 5.	Provide collaboration section
 6.	Provide embedded Instagram feed
